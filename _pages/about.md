@@ -14,5 +14,5 @@ Currently, I am working at [Sensetime](https://www.sensetime.com/en) where I lea
 
 In addition to my research contributions, I have served as a reviewer for prestigious journals and conferences, including IJCV, PR, TIP, TCSVT, AAAI, and ECCV and have reviewed a total of 24 papers. I was nominated for the prestigious ["Person of the Year"](http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html) award in 2016 during my college years.
 
-Any academic and project cooperation intentions are welcome to contact me: macong@sensetime.com / Cong-Reeshard.Ma@pku.edu.cn
+Any academic and project cooperation intentions are welcome to contact me: macong[at]sensetime(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
