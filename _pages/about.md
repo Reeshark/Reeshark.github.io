@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Cong Ma (马璁)"
 author_profile: true
 redirect_from: 
   - /about/
