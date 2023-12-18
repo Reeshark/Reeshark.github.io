@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Cong Ma (马璁)"
   avatar           : "profile.png"
-  bio              : "Senior Researcher"
+  bio              : "Senior Researcher & Technical Adviser"
   location         : "Beijing"
-  employer         : "Sensetime"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ZdEAwKoAAAAJ&hl=en&oi=ao"
   email            : "Cong-Reeshard.Ma@pku.edu.cn"
   researchgate     :  
