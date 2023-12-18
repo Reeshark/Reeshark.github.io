@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cong Ma / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Cong Ma (马璁)"
 description              : &description "personal description"
