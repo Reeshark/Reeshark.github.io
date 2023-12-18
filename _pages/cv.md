@@ -9,23 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-present: Senior Researcher
+  * Sensetime Group Limited
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2021: Visiting Student Researcher
+  * Stanford
+
+Education
+======
+* Ph.D. in Peking University, 2016-2021
+* B.S. in Xidian University, 2012-2016
+
+
   
 Skills
 ======
