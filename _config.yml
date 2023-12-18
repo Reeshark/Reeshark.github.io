@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Cong Ma (马璁)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Senior Researcher"
+  location         : "Beijing"
+  employer         : "Sensetime"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=ZdEAwKoAAAAJ&hl=en&oi=ao"
+  email            : "Cong-Reeshard.Ma@pku.edu.cn"
+  researchgate     :  
+  uri              : "https://baike.baidu.com/link?url=V7f4fLYPZIFQPg9HfQU-fdnLFpP0w3W1s_psEJAMPq-6dqRhM7FKAwZ3IykWoE5kOjIP1cfVx-mJijceOHZeLTpe8F2dbVYdA1xtGkXjcjW"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Reeshark"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/%E7%92%81-%E9%A9%AC-0a0593126/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
