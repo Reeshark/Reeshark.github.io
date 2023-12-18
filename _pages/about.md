@@ -1,2 +1,12 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am Cong Ma (马璁), and I obtained my Ph.D. degree from Peking University in 2021. I completed my bachelor's degree in Artificial Intelligence at Xidian University in 2016. Currently, I am working at Sensetime where I lead a team dedicated to researching the Holographic Intersection Perception Algorithm such as 2D/Monocular 3D Detection, Lidar 3D Detection, Multi-Object Tracking, and Multi-Sensor Fusion. In addition to this role, I also serves as the Chief Technical Adviser for projects involving Smart-Surveillance Systems, Intelligent Transportation and Vehicle-Infrastructure Cooperation. I am leading a team consisting of two full-time employees, two internships, and six students, who are all dedicated to advancing the field of our projects. Together, we have been actively involved in cutting-edge research. In addition to my research contributions, I have served as a reviewer for prestigious journals and conferences, including IJCV, PR, TIP, TCSVT, AAAI, and ECCV and have reviewed a total of 24 papers. I was nominated for the prestigious "Person of the Year" award in 2016 during his college years.
 
