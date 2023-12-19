@@ -40,16 +40,6 @@ Xiaodong Xie,
 </tr>
 </tbody>
 </table>
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-<tr>
-<td style="padding:0px">
-<br>
-<p style="text-align:right;font-size:small;">
-<a href="https://github.com/jonbarron/jonbarron_website">Website Template</a>
-</p>
-</td>
-</tr>
-</tbody></table>
 
 
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
