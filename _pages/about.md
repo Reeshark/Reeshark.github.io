@@ -18,30 +18,6 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 
 <h2 style="text-align: left;">Publication</h2>
-<table>
-<tbody>
-<tr>
-<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_holovic.png" data-lightbox="image-1"><img src="http://reeshark.github.io/images/CVPR2024_holovic.png" alt="clean-usnob" width="100%" height="100%"></a></td>
-<td width="75%" valign="middle">
-<papertitle><strong>	
-HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative</strong></papertitle>
-<br>
-<strong>Cong Ma</strong>, Qiao Lei, Chengkai Zhu, Kai Liu, Zelong Kong, Liqing, Xueqi Zhou, Yuheng KAN, Wei Wu
-<br>
-<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (Under Review)</span></em>
-<p>Paper, Github, Benchmark</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js" integrity="sha512-k2GFCTbp9rQU412B5hwR2pl1RLGhoPUIXQ3b0/GilB5/VDZT63S+oFCYj3s/Nkwm63V9b54elB41V7u2VezK5A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script>
-  lightbox.option({
-    'resizeDuration': 200,
-    'wrapAround': true
-  })
-</script>
 
 <table>
 <tbody>
@@ -59,6 +35,83 @@ HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersec
 </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>GeoPoint: Geometry Point Embedding for 3D Object Detection with Fully Transformer</strong></papertitle>
+<br>
+Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei HUI, Wei Wu
+<br>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (Under Review)</span></em>
+<p>Paper, Github</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_dycpa.png"><img src="http://reeshark.github.io/images/CVPR2024_dycpa.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>DyCPA: Online Constrainted Dynamic Clique Partitioning and Allocation Framework for Multi-Sensor Multi-Object Tracking</strong></papertitle>
+<br>
+Ruining Yang*, <strong>Cong Ma*</strong>, Kai Liu, Tianxiang Zhou, Xin Jin, Fei HUI, Wei Wu
+<br>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (Under Review)</span></em>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_pigw.png"><img src="http://reeshark.github.io/images/CVPR2024_pigw.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>PiGW: A Plug-in Generative Watermarking Framework</strong></papertitle>
+<br>
+Rui Ma, Mengxi Guo, Li Yuming, Hengyuan Zhang, <strong>Cong Ma</strong>, Yuan Li, Xiaodong Xie, Shanghang Zhang
+<br>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (Under Review)</span></em>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/Sensors2024.png"><img src="http://reeshark.github.io/images/Sensors2024.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Roadside Camera-LiDAR Calibration without Annotation</strong></papertitle>
+<br>
+Shaojie Jin, <strong>Cong Ma</strong>, Fei Hui
+<br>
+<em> <span style="color: blue;">IEEE Sensors Journal, 2024 (Under Review)</span></em>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/AAAI2024.png"><img src="http://reeshark.github.io/images/AAAI2024.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>SwiftPillars High-efficiency Pillar Encoder for Lidar-based 3D Detection</strong></papertitle>
+<br>
+Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei Hui, Wei Wu,
+<br>
+<em> <span style="color: blue;">Association for the Advancement of Artificial Intelligence (AAAI), 2024</span></em> <p><a href="http://reeshark.github.io/files/SwiftPillars High-efficiency Pillar Encoder for Lidar-based 3D Detection, AAAI 2024.pdf">Paper</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
 
 <table>
 <tbody>
