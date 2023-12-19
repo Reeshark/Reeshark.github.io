@@ -18,57 +18,34 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 
 
-<html lang="en">
-
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-
-<body>
-  <table width="100%">
-    <tr>
-      <td style="padding:20px;width:25%;vertical-align:middle">
-        <div class="one">
-          <div class="two" id='smerf_image'>
-            <img src='ICME18.png' width=100%>
-          </div>
-        </div>
-        <script type="text/javascript">
-          function smerf_start() {
-            document.getElementById('smerf_image').style.opacity = "1";
-          }
-
-          function smerf_stop() {
-            document.getElementById('smerf_image').style.opacity = "0";
-          }
-          smerf_start()
-        </script>
-      </td>
-      <td style="padding:20px;width:75%;vertical-align:middle">
-        <span class="papertitle"><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></span>
-        <br>
-        <strong>Cong Ma</strong>,
-        Changshui Yang,
-        Yueqing Zhuang,
-        Ziwei Zhang,
-        Huizhu Jia,
-        Xiaodong Xie,
-        <br>
-        <em></em>IEEE International Conference on Multimedia and Expo (ICME), 2018
-        <br>
-        project page
-        /
-        paper
-        <p></p>
-        <p>
-          Trajectory post-processing deep netowrks for multiple object tracking to refine the track-mix and track-break.
-        </p>
-      </td>
-    </tr>
-  </table>
-</body>
-
-</html>
+<table>
+<tbody>
+<tr>
+<td><img src="images/AllenAct.png" alt="clean-usnob" width="160" height="160"></td>
+<td width="75%" valign="middle">
+<a href="https://arxiv.org/abs/2008.12760">
+<papertitle>AllenAct: A Framework for Embodied AI Research</papertitle>
+</a>
+<br>
+<a href="https://lucaweihs.github.io/">Luca Weihs*</a>, <a href="http://jordisalvador-image.blogspot.com/">Jordi Salvador*</a>, <strong>Klemen Kotar*</strong>, <a href="https://unnat.github.io/">Unnat Jain</a>, <a href="https://homes.cs.washington.edu/~khzeng/">Kuo-Hao Zeng</a>, <a href="http://www.roozbehm.info/">Roozbeh Mottaghi</a>, <a href="https://anikem.github.io/">Aniruddha Kembhavi</a>
+<br>
+<em>Techical Paper</em>, 2020
+<p>We introduce a new library and framework for conducing reinforcment learning experiments in PyTorch. By providing many built-in training algorithms and utilities and allowing for easy expansion, we hope to reduce the developement overhead and improve consistency of results across projects.</p>
+<p><a href="https://allenact.org/">Website</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<tr>
+<td style="padding:0px">
+<br>
+<p style="text-align:right;font-size:small;">
+<a href="https://github.com/jonbarron/jonbarron_website">Website Template</a>
+</p>
+</td>
+</tr>
+</tbody></table>
 
 
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
