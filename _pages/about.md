@@ -21,10 +21,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
     <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <div class="two" id='smerf_image'><video  width=100% muted autoplay loop>
-          <source src="http://reeshark.github.io/images/ICME18.png" type="image/png">
-          Your browser does not support the video tag.
-          </video></div>
+          <div class="two" id='smerf_image'>
           <img src='http://reeshark.github.io/images/ICME18.png' width=30%>
         </div>
         <script type="text/javascript">
@@ -40,7 +37,6 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       </td>
       <td style="padding:20px;width:95%;vertical-align:middle">
           <span class="papertitle"><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></span>
-        </a>
         <br>
 	<strong>Cong Ma</strong>,
 Changshui Yang,
