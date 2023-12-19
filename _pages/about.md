@@ -82,18 +82,13 @@ Xiaodong Xie,
 <table>
 <tbody>
 <tr>
-<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="300px"><img src="http://reeshark.github.io/images/AAAI2024.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<papertitle><strong>SwiftPillars High-efficiency Pillar Encoder for Lidar-based 3D Detection</strong></papertitle>
 <br>
-<strong>Cong Ma</strong>,
-Changshui Yang,
-Yueqing Zhuang,
-Ziwei Zhang,
-Huizhu Jia,
-Xiaodong Xie,
+Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei Hui, Wei Wu,
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">Association for the Advancement of Artificial Intelligence (AAAI), 2024</span></em> <p><a href="http://reeshark.github.io/files/SwiftPillars High-efficiency Pillar Encoder for Lidar-based 3D Detection, AAAI 2024.pdf">Paper</a></p>
 </td>
 </tr>
 </tbody>
