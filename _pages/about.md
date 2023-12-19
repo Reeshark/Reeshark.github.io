@@ -18,6 +18,68 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 <h2 style="text-align: left;">Experience</h2>
 
+
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th {
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h2>Experience</h2>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>AI Senior Researcher</td>
+    <td>SenseTime 商汤科技</td>
+    <td>Contract</td>
+  </tr>
+  <tr>
+    <td>Jul 2021 - Present</td>
+    <td>2 yrs 6 mos</td>
+    <td>Tech Leader on 2D-3D Perception: 2D/Monocular 3D/ Lidar 3D Detection, Multiple Object Tracking, Multi-Sensor Tracking...</td>
+  </tr>
+  <tr>
+    <td>Visiting Student Researcher</td>
+    <td>Stanford University</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 2020 - Jan 2021</td>
+    <td>1 yr</td>
+    <td>Palo Alto, California, United States</td>
+  </tr>
+  <tr>
+    <td colspan="3">Remote Collaboration (due to covid-19), research on 2D multiple object tracking and 3D detection.</td>
+  </tr>
+  <tr>
+    <td>Research And Development Intern</td>
+    <td>Albee (Beijing) Intelligence Technology Co., Ltd.</td>
+    <td>Internship</td>
+  </tr>
+  <tr>
+    <td>Jan 2018 - Aug 2018</td>
+    <td>8 mos</td>
+    <td>Beijing</td>
+  </tr>
+  <tr>
+    <td colspan="3">Research Area: Multiple Object Tracking and Person Re-identification with Albee US and Professor Silvio Savarese Team (Stanford Vision and Learning Lab).</td>
+  </tr>
+</table>
+
+</body>
+
 <h2 style="text-align: left;">Education</h2>
 
 <h2 style="text-align: left;">Publication</h2>
