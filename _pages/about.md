@@ -79,8 +79,7 @@ Huizhu Jia,
 Xiaodong Xie,
 <br>
 <em>IEEE International Conference on Multimedia and Expo (ICME)</em>, 2018
-<p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
-<p style="color: red;">Oral Presentation</p>
+<p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p><p style="color: red;">Oral Presentation</p>
 </td>
 </tr>
 </tbody>
