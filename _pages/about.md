@@ -32,8 +32,6 @@ th {
 </head>
 <body>
 
-<h2>Experience</h2>
-
 <table>
   <tr>
     <th></th>
