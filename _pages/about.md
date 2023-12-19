@@ -122,18 +122,13 @@ Xiaodong Xie,
 <table>
 <tbody>
 <tr>
-<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="300px"><img src="http://reeshark.github.io/images/IJCV2021_1.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<papertitle><strong>Deep human-interaction and association by graph-based learning for multiple object tracking in the wild</strong></papertitle>
 <br>
-<strong>Cong Ma</strong>,
-Changshui Yang,
-Yueqing Zhuang,
-Ziwei Zhang,
-Huizhu Jia,
-Xiaodong Xie,
+<strong>Cong Ma</strong>, Fan Yang, Yuan Li, Huizhu Jia, Xiaodong Xie, Wen Gao
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">International Journal of Computer Vision (IJCV), 2021</span></em> <p><a href="http://reeshark.github.io/files/Deep human-interaction and association by graph-based learning for multiple object tracking in the wild, International Journal of Computer Vision, 2021.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
 </td>
 </tr>
 </tbody>
@@ -148,7 +143,7 @@ Xiaodong Xie,
 <br>
 Mengxi Guo, Mingtao Chen, <strong>Cong Ma</strong>, Yuan Li, Xianfeng Li, Xiaodong Xie,
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/High-level task-driven single image deraining Segmentation in rainy days, International Conference on Neural Information Processing, 2020.pdf">Paper</a></p>
+<em> <span style="color: blue;">Neural Information Processing: 27th International Conference, (ICONIP), 2020</span></em> <p><a href="http://reeshark.github.io/files/High-level task-driven single image deraining Segmentation in rainy days, International Conference on Neural Information Processing, 2020.pdf">Paper</a></p>
 </td>
 </tr>
 </tbody>
