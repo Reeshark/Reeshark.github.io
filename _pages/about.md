@@ -182,13 +182,13 @@ Xiaodong Xie,
 <table>
 <tbody>
 <tr>
-<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="300px"><img src="http://reeshark.github.io/images/ICASSP2020.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
 <papertitle><strong>Bba-net: A bi-branch attention network for crowd counting</strong></papertitle>
 <br>
 Yi Hou, Chengyang Li, Fan Yang,<strong>Cong Ma</strong>, Liping Zhu, Yuan Li, Huizhu Jia, Xiaodong Xie,
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020</span></em> <p><a href="http://reeshark.github.io/files/Bba-net A bi-branch attention network for crowd counting, IEEE International Conference on Acoustics, Speech and Signal Processing, 2020.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
 </td>
 </tr>
 </tbody>
@@ -234,7 +234,7 @@ Huizhu Jia,
 Xiaodong Xie,
   Wen Gao
 <br>
-<em> <span style="color: blue;">IEEE international conference on image processing (ICIP), 2018</span></em> <p><a href="http://reeshark.github.io/files/Dense relation network Learning consistent and context-aware representation for semantic image segmentation, 25th IEEE International Conference on Image Processing, 2018.pdf">Paper</a>
+<em> <span style="color: blue;">IEEE international conference on image processing (ICIP), 2018</span></em> <p><a href="http://reeshark.github.io/files/Dense relation network Learning consistent and context-aware representation for semantic image segmentation, 25th IEEE International Conference on Image Processing, 2018.pdf">Paper</a></p>
 </td>
 </tr>
 </tbody>
@@ -257,7 +257,7 @@ Ziwei Zhang,
 Huizhu Jia,
 Xiaodong Xie,
 <br>
-<em> <span style="color: blue;">International Conference on Pattern Recognition (ICPR), 2018</span></em> <p><a href="http://reeshark.github.io/files/RelationNet Learning deep-aligned representation for semantic image segmentation, 24th International Conference on Pattern Recognition, 2018.pdf">Paper</a>
+<em> <span style="color: blue;">International Conference on Pattern Recognition (ICPR), 2018</span></em> <p><a href="http://reeshark.github.io/files/RelationNet Learning deep-aligned representation for semantic image segmentation, 24th International Conference on Pattern Recognition, 2018.pdf">Paper</a></p>
 </td>
 </tr>
 </tbody>
