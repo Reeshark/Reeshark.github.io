@@ -162,18 +162,13 @@ Xiaodong Xie,
 <table>
 <tbody>
 <tr>
-<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="300px"><img src="http://reeshark.github.io/images/ISCAS2020.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<papertitle><strong>Optical flow-guided mask generation network for video segmentation</strong></papertitle>
 <br>
-<strong>Cong Ma</strong>,
-Changshui Yang,
-Yueqing Zhuang,
-Ziwei Zhang,
-Huizhu Jia,
-Xiaodong Xie,
+Yunyi Li, Fangping Chen, Fan Yang, <strong>Cong Ma</strong>, Yuan Li, Huizhu Jia, Xiaodong Xie,
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">IEEE International Symposium on Circuits and Systems (ISCAS), 2020</span></em> <p><a href="http://reeshark.github.io/files/Optical flow-guided mask generation network for video segmentation, IEEE International Symposium on Circuits and Systems, 2020.pdf">Paper</a></p>
 </td>
 </tr>
 </tbody>
@@ -215,8 +210,6 @@ Xiaodong Xie,
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -240,7 +233,6 @@ Xiaodong Xie,
 </tbody>
 </table>
 
-<br>
 
 <table>
 <tbody>
@@ -262,8 +254,6 @@ Xiaodong Xie,
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
