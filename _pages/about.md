@@ -70,8 +70,6 @@ Xiaodong Xie,
 <td><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="1010%"></td>
 <td width="75%" valign="middle">
 <papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
-</a>
-<br>
 <br>
 <strong>Cong Ma</strong>,
 Changshui Yang,
@@ -80,9 +78,9 @@ Ziwei Zhang,
 Huizhu Jia,
 Xiaodong Xie,
 <br>
-  <br>
 <em>IEEE International Conference on Multimedia and Expo (ICME)</em>, 2018
 <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<p style="color: red;">Oral Presentation</p>
 </td>
 </tr>
 </tbody>
