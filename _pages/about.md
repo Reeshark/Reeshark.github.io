@@ -17,7 +17,8 @@ In addition to my research contributions, I have served as a reviewer for presti
 Any academic and project cooperation intentions are welcome to contact me: macong[at]sensetime(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
 
-<table style="display:none">
+<h2 style="text-align: center;">Publication</h2>
+<table style="display:none;width:100%">
 <tbody>
 <tr>
 <td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
