@@ -18,13 +18,12 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 
 <h2 style="text-align: left;">Publication</h2>
-
 <table>
 <tbody>
 <tr>
 <td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
 <br>
 <strong>Cong Ma</strong>,
 Changshui Yang,
@@ -33,7 +32,7 @@ Ziwei Zhang,
 Huizhu Jia,
 Xiaodong Xie,
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em>
 </td>
 </tr>
 </tbody>
@@ -44,7 +43,7 @@ Xiaodong Xie,
 <tr>
 <td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
 <br>
 <strong>Cong Ma</strong>,
 Changshui Yang,
@@ -53,7 +52,7 @@ Ziwei Zhang,
 Huizhu Jia,
 Xiaodong Xie,
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em>
 </td>
 </tr>
 </tbody>
@@ -64,7 +63,7 @@ Xiaodong Xie,
 <tr>
 <td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
 <br>
 <strong>Cong Ma</strong>,
 Changshui Yang,
@@ -73,7 +72,42 @@ Ziwei Zhang,
 Huizhu Jia,
 Xiaodong Xie,
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/Sensors2024.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Roadside Camera-LiDAR Calibration without Annotation</strong></papertitle>
+<br>
+Shaojie Jin, <strong>Cong Ma</strong>, Fei Hui
+<br>
+<em> <span style="color: blue;">IEEE Sensors Journal, 2024 (Under Review)</span></em>
 </td>
 </tr>
 </tbody>
