@@ -16,7 +16,9 @@ In addition to my research contributions, I have served as a reviewer for presti
 
 Any academic and project cooperation intentions are welcome to contact me: macong[at]sensetime(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
+<h2 style="text-align: left;">Experience</h2>
 
+<h2 style="text-align: left;">Education</h2>
 
 <h2 style="text-align: left;">Publication</h2>
 
@@ -251,3 +253,7 @@ Xiaodong Xie,
 </tr>
 </tbody>
 </table>
+
+<h2 style="text-align: left;">Awards and Honors</h2>
+
+<h2 style="text-align: left;">Patents</h2>
