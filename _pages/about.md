@@ -81,18 +81,13 @@ Xiaodong Xie,
 <table>
 <tbody>
 <tr>
-<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="300px"><img src="http://reeshark.github.io/images/CVPR2024_pigw.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
+<papertitle><strong>PiGW: A Plug-in Generative Watermarking Framework</strong></papertitle>
 <br>
-<strong>Cong Ma</strong>,
-Changshui Yang,
-Yueqing Zhuang,
-Ziwei Zhang,
-Huizhu Jia,
-Xiaodong Xie,
+Rui Ma, Mengxi Guo, Li Yuming, Hengyuan Zhang, <strong>Cong Ma</strong>, Yuan Li, Xiaodong Xie, Shanghang Zhang
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (Under Review)</span></em>
 </td>
 </tr>
 </tbody>
