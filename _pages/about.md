@@ -17,8 +17,187 @@ In addition to my research contributions, I have served as a reviewer for presti
 Any academic and project cooperation intentions are welcome to contact me: macong[at]sensetime(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
 
-<h2 style="text-align: center;">Publication</h2>
+<h2 style="text-align: left;">Publication</h2>
 
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
