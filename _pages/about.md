@@ -23,14 +23,18 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <tr>
 <td><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="160" height="160"></td>
 <td width="75%" valign="middle">
-<a href="https://arxiv.org/abs/2008.12760">
-<papertitle>AllenAct: A Framework for Embodied AI Research</papertitle>
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
 </a>
 <br>
-<a href="https://lucaweihs.github.io/">Luca Weihs*</a>, <a href="http://jordisalvador-image.blogspot.com/">Jordi Salvador*</a>, <strong>Klemen Kotar*</strong>, <a href="https://unnat.github.io/">Unnat Jain</a>, <a href="https://homes.cs.washington.edu/~khzeng/">Kuo-Hao Zeng</a>, <a href="http://www.roozbehm.info/">Roozbeh Mottaghi</a>, <a href="https://anikem.github.io/">Aniruddha Kembhavi</a>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
 <br>
-<em>Techical Paper</em>, 2020
-<p>We introduce a new library and framework for conducing reinforcment learning experiments in PyTorch. By providing many built-in training algorithms and utilities and allowing for easy expansion, we hope to reduce the developement overhead and improve consistency of results across projects.</p>
+<em>IEEE International Conference on Multimedia and Expo (ICME)</em>, 2018
+<p>Trajectory post-processing deep netowrks for multiple object tracking to refine the track-mix and track-break.</p>
 <p><a href="https://allenact.org/">Website</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
 </td>
 </tr>
