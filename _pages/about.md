@@ -18,65 +18,6 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 <h2 style="text-align: left;">Experience</h2>
 
-
-<head>
-<title>履历</title>
-<style>
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.card {
-  width: 300px;
-  height: 200px;
-  margin: 10px;
-  padding: 10px;
-  border: 1px solid black;
-  border-radius: 5px;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-}
-
-.card-header {
-  font-weight: bold;
-  font-size: 18px;
-  margin-bottom: 5px;
-}
-
-.card-body {
-  font-size: 14px;
-  line-height: 1.5;
-}
-</style>
-</head>
-<body>
-<div class="container">
-  <div class="card">
-    <div class="card-header">AI高级研究员</div>
-    <div class="card-body">
-      商汤科技 | 2021.07-至今（2年6个月）<br>
-      技术负责人，负责2D-3D感知：2D/单目3D/激光雷达3D检测、多目标跟踪、多传感器跟踪等。
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header">访问学生研究员</div>
-    <div class="card-body">
-      斯坦福大学 | 2020.02-2021.01（1年）<br>
-      远程协作（受新冠疫情影响），研究2D多目标跟踪和3D检测。
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header">研发实习生</div>
-    <div class="card-body">
-      Albee（北京）智能科技有限公司 | 2018.01-2018.08（8个月）<br>
-      研究领域：多目标跟踪和人员再识别，与Albee美国和斯坦福大学教授Silvio Savarese团队合作。
-    </div>
-  </div>
-</div>
-</body>
-
 <h2 style="text-align: left;">Education</h2>
 
 <h2 style="text-align: left;">Publication</h2>
