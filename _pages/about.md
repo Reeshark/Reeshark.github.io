@@ -43,17 +43,15 @@ Any academic and project cooperation intentions are welcome to contact me: macon
           <span class="papertitle">Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</span>
         </a>
         <br>
-		<a href="">Cong Ma</a>,
-<a href="">Changshui Yang</a>,
-<a href="">Yueqing Zhuang</a>,
-<a href="">Ziwei Zhang</a>,
-<a href="">Huizhu Jia</a>,
-<a href="">Xiaodong Xie</a>,
+		Cong Ma,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
         <br>
         <em></em>IEEE International Conference on Multimedia and Expo (ICME), 2018
         <br>
-        <a href="https://smerf-3d.github.io/">project page</a>
-        /
         <a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">paper</a>
         <p></p>
         <p>
