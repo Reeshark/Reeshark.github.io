@@ -17,7 +17,8 @@ In addition to my research contributions, I have served as a reviewer for presti
 Any academic and project cooperation intentions are welcome to contact me: macong[at]sensetime(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
 
- <html lang="en">
+```html
+<html lang="en">
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -29,7 +30,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
           <div class="two" id='smerf_image'>
-            <img src='[ICME18.png](http://reeshark.github.io/images/ICME18.png)' width=100%>
+            <img src='ICME18.png' width=100%>
           </div>
         </div>
         <script type="text/javascript">
@@ -68,6 +69,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 </body>
 
 </html>
+```
 
 
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
