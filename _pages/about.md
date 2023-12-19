@@ -210,6 +210,46 @@ Xiaodong Xie,
 </table>
 
 
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/ICPR2018.png"><img src="http://reeshark.github.io/images/ICPR2018.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Relationnet: Learning deep-aligned representation for semantic image segmentation</strong></papertitle>
+<br>
+ Yueqing Zhuang,
+ Li Tao,
+ Fan Yang,
+<strong>Cong Ma</strong>,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">International Conference on Pattern Recognition (ICPR), 2018</span></em> <p><a href="http://reeshark.github.io/files/RelationNet Learning deep-aligned representation for semantic image segmentation, 24th International Conference on Pattern Recognition, 2018.pdf">Paper</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/ICME18.png"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
