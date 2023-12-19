@@ -18,7 +18,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 
 
-<table>
+<table style="border:none;">
 <tbody>
 <tr>
 <td><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="160" height="160"></td>
