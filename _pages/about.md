@@ -21,7 +21,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <table>
 <tbody>
 <tr>
-<td><img src="images/AllenAct.png" alt="clean-usnob" width="160" height="160"></td>
+<td><img src="images/ICME18.png" alt="clean-usnob" width="160" height="160"></td>
 <td width="75%" valign="middle">
 <a href="https://arxiv.org/abs/2008.12760">
 <papertitle>AllenAct: A Framework for Embodied AI Research</papertitle>
