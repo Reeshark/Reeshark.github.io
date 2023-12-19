@@ -204,16 +204,16 @@ Xiaodong Xie,
 <tr>
 <td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<papertitle><strong>Deep association: End-to-end graph-based learning for multiple object tracking with conv-graph neural network</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
 <br>
 <strong>Cong Ma</strong>,
-Changshui Yang,
+Yuan Li,
+  Ziwei Zhang,
 Yueqing Zhuang,
-Ziwei Zhang,
 Huizhu Jia,
 Xiaodong Xie,
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">International Conference on Multimedia Retrieval (ICMR), 2019</span></em> <p><a href="http://reeshark.github.io/files/Deep association End-to-end graph-based learning for multiple object tracking with conv-graph neural network, International Conference on Multimedia Retrieval, 2019.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
 </td>
 </tr>
 </tbody>
