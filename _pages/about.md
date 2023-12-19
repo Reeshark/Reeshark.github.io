@@ -44,7 +44,7 @@ Xiaodong Xie,
 <table style="border: none;">
 <tbody>
 <tr>
-<td><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="160" height="160"></td>
+<td width="200px"><td><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="160" height="160"></td>
 <td width="75%" valign="middle">
 <papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
 </a>
@@ -80,6 +80,31 @@ Xiaodong Xie,
 <br>
 <em>IEEE International Conference on Multimedia and Expo (ICME)</em>, 2018
 <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p><p style="color: red;">Oral Presentation</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table style="border-collapse: collapse; border: none;">
+<tbody>
+<tr>
+<td width="200px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="75%" valign="middle">
+<br>
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
+<br>
+<br>
+<strong>Cong Ma</strong>,
+Changshui Yang,
+Yueqing Zhuang,
+Ziwei Zhang,
+Huizhu Jia,
+Xiaodong Xie,
+<br>
+<em>IEEE International Conference on Multimedia and Expo (ICME)</em>, 2018
+<p>Trajectory post-processing deep netowrks for multiple object tracking to refine the track-mix and track-break.</p>
+<p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<p style="color: red;">Oral Presentation</p>
 </td>
 </tr>
 </tbody>
