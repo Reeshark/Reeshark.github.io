@@ -102,18 +102,13 @@ Xiaodong Xie,
 <table>
 <tbody>
 <tr>
-<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="300px"><img src="http://reeshark.github.io/images/IJCV2021_2.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<papertitle><strong>Deep trajectory post-processing and position projection for single & multiple camera multiple object tracking</strong></papertitle>
 <br>
-<strong>Cong Ma</strong>,
-Changshui Yang,
-Yueqing Zhuang,
-Ziwei Zhang,
-Huizhu Jia,
-Xiaodong Xie,
+<strong>Cong Ma</strong>, Fan Yang, Yuan Li, Huizhu Jia, Xiaodong Xie, Wen Gao
 <br>
-<em> <span style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</span></em> <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">International Journal of Computer Vision (IJCV), 2021</span></em> <p><a href="http://reeshark.github.io/files/Deep Trajectory Post-Processing and Position Projection for Single & Multiple Camera Multiple Object Tracking, International Journal of Computer Vision v2, 2021.pdf">Paper</a></p>
 </td>
 </tr>
 </tbody>
@@ -128,7 +123,7 @@ Xiaodong Xie,
 <br>
 <strong>Cong Ma</strong>, Fan Yang, Yuan Li, Huizhu Jia, Xiaodong Xie, Wen Gao
 <br>
-<em> <span style="color: blue;">International Journal of Computer Vision (IJCV), 2021</span></em> <p><a href="http://reeshark.github.io/files/Deep human-interaction and association by graph-based learning for multiple object tracking in the wild, International Journal of Computer Vision, 2021.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+<em> <span style="color: blue;">International Journal of Computer Vision (IJCV), 2021</span></em> <p><a href="http://reeshark.github.io/files/Deep human-interaction and association by graph-based learning for multiple object tracking in the wild, International Journal of Computer Vision, 2021.pdf">Paper</a></p>
 </td>
 </tr>
 </tbody>
