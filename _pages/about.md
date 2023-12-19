@@ -41,7 +41,7 @@ Xiaodong Xie,
 <table>
 <tbody>
 <tr>
-<td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="300px"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
 <papertitle><strong>GeoPoint: Geometry Point Embedding for 3D Object Detection with Fully Transformer</strong></papertitle>
 <br>
@@ -57,7 +57,7 @@ Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei HUI, Wei Wu
 <table>
 <tbody>
 <tr>
-<td width="300px"><img src="http://reeshark.github.io/images/CVPR24_dycpa.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="300px"><img src="http://reeshark.github.io/images/CVPR2024_dycpa.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
 <papertitle><strong>DyCPA: Online Constrainted Dynamic Clique Partitioning and Allocation Framework for Multi-Sensor Multi-Object Tracking</strong></papertitle>
 <br>
