@@ -77,7 +77,7 @@ Ziwei Zhang,
 Huizhu Jia,
 Xiaodong Xie,
 <br>
-<em> <a href="https://2018.ieeeicme.org/" style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</a></em>
+<em> <a style="color: blue;">IEEE International Conference on Multimedia and Expo (ICME), 2018</a></em>
 <p>Trajectory post-processing deep netowrks for multiple object tracking to refine the track-mix and track-break.</p>
 <p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
 </td>
