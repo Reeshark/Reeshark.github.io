@@ -29,6 +29,7 @@ HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersec
 <strong>Cong Ma</strong>, Qiao Lei, Chengkai Zhu, Kai Liu, Zelong Kong, Liqing, Xueqi Zhou, Yuheng KAN, Wei Wu
 <br>
 <em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (Under Review)</span></em>
+<p>Paper, Github, Benchmark</p>
 </td>
 </tr>
 </tbody>
