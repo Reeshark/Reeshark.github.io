@@ -242,9 +242,9 @@ Xiaodong Xie,
 <table>
 <tbody>
 <tr>
-<td width="300px"><img src="http://reeshark.github.io/images/ICPR18.png" alt="clean-usnob" width="100%" height="100%"></td>
+<td width="300px"><img src="http://reeshark.github.io/images/ICPR2018.png" alt="clean-usnob" width="100%" height="100%"></td>
 <td width="75%" valign="middle">
-<papertitle><strong>Relationnet: Learning deep-aligned representation for semantic image segmentation</strong><span style="color: red;"> [Oral Presentation]</span></papertitle>
+<papertitle><strong>Relationnet: Learning deep-aligned representation for semantic image segmentation</strong></papertitle>
 <br>
   Yueqing Zhuang,
   Li Tao,
