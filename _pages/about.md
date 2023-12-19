@@ -17,7 +17,7 @@ In addition to my research contributions, I have served as a reviewer for presti
 Any academic and project cooperation intentions are welcome to contact me: macong[at]sensetime(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
 
-```html
+
 <html lang="en">
 
 <head>
@@ -69,7 +69,6 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 </body>
 
 </html>
-```
 
 
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
