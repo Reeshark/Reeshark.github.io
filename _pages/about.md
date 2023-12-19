@@ -38,12 +38,11 @@ Any academic and project cooperation intentions are welcome to contact me: macon
           smerf_stop()
         </script>
       </td>
-      <td style="padding:20px;width:75%;vertical-align:middle">
-        <a href="https://smerf-3d.github.io/">
-          <span class="papertitle">Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</span>
+      <td style="padding:20px;width:95%;vertical-align:middle">
+          <span class="papertitle"><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></span>
         </a>
         <br>
-		Cong Ma,
+	<strong>Cong Ma</strong>,
 Changshui Yang,
 Yueqing Zhuang,
 Ziwei Zhang,
