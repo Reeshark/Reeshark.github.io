@@ -22,10 +22,10 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
           <div class="two" id='smerf_image'><video  width=100% muted autoplay loop>
-          <source src="images/smerf.mp4" type="video/mp4">
+          <source src="ICME18.png" type="image/png">
           Your browser does not support the video tag.
           </video></div>
-          <img src='images/ICME18.png' width=100%>
+          <img src='ICME18.png' width=100%>
         </div>
         <script type="text/javascript">
           function smerf_start() {
@@ -61,4 +61,3 @@ Any academic and project cooperation intentions are welcome to contact me: macon
         </p>
       </td>
     </tr>
-</html>
