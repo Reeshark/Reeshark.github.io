@@ -20,9 +20,8 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
-        <div class="one">
-          <div class="two" id='smerf_image'>
-          <img src='http://reeshark.github.io/images/ICME18.png' width=30%>
+	<div class="one">
+     <div class="two" id='smerf_image'><img src='ICME18.png' width=100%></div>
         </div>
         <script type="text/javascript">
           function smerf_start() {
