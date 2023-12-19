@@ -64,38 +64,25 @@ Xiaodong Xie,
 </tbody>
 </table>
 
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
-      <td style="padding:20px;width:25%;vertical-align:middle">
-	<div class="one">
-     <div class="two" id='smerf_image'><img src='http://reeshark.github.io/images/ICME18.png' width=100%></div>
-        </div>
-        <script type="text/javascript">
-          function smerf_start() {
-            document.getElementById('smerf_image').style.opacity = "1";
-          }
-
-          function smerf_stop() {
-            document.getElementById('smerf_image').style.opacity = "0";
-          }
-          smerf_stop()
-        </script>
-      </td>
-      <td style="padding:20px;width:95%;vertical-align:middle">
-          <span class="papertitle"><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></span>
-        <br>
-	<strong>Cong Ma</strong>,
+<table style="border-collapse: collapse; border: 0;">
+<tbody>
+<tr>
+<td><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="30%" height="30%"></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking</strong></papertitle>
+</a>
+<br>
+<strong>Cong Ma</strong>,
 Changshui Yang,
 Yueqing Zhuang,
 Ziwei Zhang,
 Huizhu Jia,
 Xiaodong Xie,
-        <br>
-        <em></em>IEEE International Conference on Multimedia and Expo (ICME), 2018
-        <br>
-        <a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">paper</a>
-        <p></p>
-        <p>
-        Trajectory post-processing deep netowrks for multiple object tracking to refine the track-mix and track-break.
-        </p>
-      </td>
+<br>
+<em>IEEE International Conference on Multimedia and Expo (ICME)</em>, 2018
+<p>Trajectory post-processing deep netowrks for multiple object tracking to refine the track-mix and track-break.</p>
+<p><a href="http://reeshark.github.io/files/Trajectory factory Tracklet cleaving and re-connection by deep siamese bi-gru for multiple object tracking IEEE International Conference on Multimedia and Expo, 2018.pdf">Paper</a>, <a href="https://github.com/allenai/allenact">Github</a></p>
+</td>
+</tr>
+</tbody>
+</table>
