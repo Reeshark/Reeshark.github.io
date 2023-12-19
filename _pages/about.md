@@ -62,7 +62,7 @@ Xiaodong Xie,
 </tbody>
 </table>
 
-<table style="display:none">
+<table style="display:none;border-collapse: collapse; border: none;">
 <tbody>
 <tr>
 <td width="300px"><img src="http://reeshark.github.io/images/ICME18.png" alt="clean-usnob" width="100%" height="100%"></td>
