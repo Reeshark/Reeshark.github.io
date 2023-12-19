@@ -22,10 +22,10 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
           <div class="two" id='smerf_image'><video  width=100% muted autoplay loop>
-          <source src="ICME18.png" type="image/png">
+          <source src="http://reeshark.github.io/images/ICME18.png" type="image/png">
           Your browser does not support the video tag.
           </video></div>
-          <img src='ICME18.png' width=100%>
+          <img src='http://reeshark.github.io/images/ICME18.png' width=30%>
         </div>
         <script type="text/javascript">
           function smerf_start() {
