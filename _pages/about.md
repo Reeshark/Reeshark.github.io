@@ -41,7 +41,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       align-items: center;
     }
         .icon {
-      margin-right: 100px;
+      margin-right: 1000px;
     }
   </style>
 
