@@ -52,9 +52,9 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <br>
 <font size = "3.5">Senior Researcher & Tech Adviser</font>
 <br>
-<em><font size = "3.5"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</font></em>
+<em><font size = "3"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</font></em>
 <br>
-<em><font size = "3.5"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
+<em><font size = "3"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
 </div>
 </div>
 </body>
@@ -65,16 +65,16 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
 <div class="container" style="width:100%;">
 <div class="image" style="width: 15%; height: 15%; float:left;">
-<img src="http://reeshark.github.io/images/sensetime_icon.jpg">
+<img src="http://reeshark.github.io/images/stanford.jpg">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Sensetime (2021-present)</font></strong>
+<strong><font size = "4.5">Stanford University (2020-2021)</font></strong>
 <br>
-<font size = "3.5">Senior Researcher & Tech Adviser</font>
+<font size = "3.5">Visiting Student Researcher (Remote, due to Covid-19)</font>
 <br>
-<em><font size = "3.5"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</font></em>
+<em><font size = "3.5"><strong>Projects:</strong> JackRabbot </font></em>
 <br>
-<em><font size = "3.5"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
+<em><font size = "3.5"><strong>Research Fields:</strong> Lidar3D Detection, Multi-Object Tracking</font></em>
 </div>
 </div>
 </body>
@@ -85,24 +85,61 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
 <div class="container" style="width:100%;">
 <div class="image" style="width: 15%; height: 15%; float:left;">
-<img src="http://reeshark.github.io/images/sensetime_icon.jpg">
+<img src="http://reeshark.github.io/images/aibee.png">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Sensetime (2021-present)</font></strong>
+<strong><font size = "4.5">Aibee (2018-2019)</font></strong>
 <br>
-<font size = "3.5">Senior Researcher & Tech Adviser</font>
+<font size = "3.5">Research Intern</font>
 <br>
-<em><font size = "3.5"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</font></em>
+<em><font size = "3.5"><strong>Projects: Smart Shopping Mall</strong></font></em>
 <br>
-<em><font size = "3.5"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
+<em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Person Re-identification</font></em>
 </div>
 </div>
 </body>
 </html>
-  
-<hr>
+
 
 <h2 style="text-align: left;">Education</h2>
+<html>
+<body>
+<div class="container" style="width:100%;">
+<div class="image" style="width: 15%; height: 15%; float:left;">
+<img src="http://reeshark.github.io/images/aibee.png">
+</div>
+<div class="text" style="width: 80%;float:right;">
+<strong><font size = "4.5">Aibee (2018-2019)</font></strong>
+<br>
+<font size = "3.5">Research Intern</font>
+<br>
+<em><font size = "3.5"><strong>Projects: Smart Shopping Mall</strong></font></em>
+<br>
+<em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Person Re-identification</font></em>
+</div>
+</div>
+</body>
+</html>
+
+<hr>
+<html>
+<body>
+<div class="container" style="width:100%;">
+<div class="image" style="width: 15%; height: 15%; float:left;">
+<img src="http://reeshark.github.io/images/aibee.png">
+</div>
+<div class="text" style="width: 80%;float:right;">
+<strong><font size = "4.5">Aibee (2018-2019)</font></strong>
+<br>
+<font size = "3.5">Research Intern</font>
+<br>
+<em><font size = "3.5"><strong>Projects: Smart Shopping Mall</strong></font></em>
+<br>
+<em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Person Re-identification</font></em>
+</div>
+</div>
+</body>
+</html>
 
 <h2 style="text-align: left;">Publication</h2>
 
