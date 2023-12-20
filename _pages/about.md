@@ -125,7 +125,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
 <div class="container" style="width:100%;">
-<div class="image" style="width: 8%; height: 8%; float:left;">
+<div class="image" style="width: 10%; height: 10%; float:left;">
 <img src="http://reeshark.github.io/images/xidian.jpeg">
 </div>
 <div class="text" style="width: 80%;float:right;">
