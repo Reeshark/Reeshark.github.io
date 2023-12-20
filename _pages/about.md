@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Cong Ma profile"
 excerpt: "Cong Ma (马璁)"
 author_profile: true
 redirect_from: 
@@ -155,7 +155,7 @@ Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei Hui, Wei Wu,
 <br>
 Mengxi Guo, Mingtao Chen, <strong>Cong Ma</strong>, Yuan Li, Xianfeng Li, Xiaodong Xie,
 <br>
-<em> <span style="color: blue;">Neural Information Processing: 27th International Conference, (ICONIP), 2020</span></em> <p><a href="http://reeshark.github.io/files/High-level task-driven single image deraining Segmentation in rainy days, International Conference on Neural Information Processing, 2020.pdf">Paper</a></p>
+<em> <span style="color: blue;">The International Conference on Neural Information Processing (ICONIP), 2020</span></em> <p><a href="http://reeshark.github.io/files/High-level task-driven single image deraining Segmentation in rainy days, International Conference on Neural Information Processing, 2020.pdf">Paper</a></p>
 </td>
 </tr>
 </tbody>
