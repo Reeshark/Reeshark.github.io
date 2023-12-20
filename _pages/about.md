@@ -20,13 +20,10 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 <!DOCTYPE html>
 <html>
-<head>
-  <title>图标和文字</title>
-</head>
 <body>
   <div class="container">
     <div class="icon">
-      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="图标">
+      <td width="300px"><img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="图标"  width="100%" height="100%" ></td>
     </div>
     <div class="text">
       <ul>
@@ -126,7 +123,7 @@ Rui Ma, Mengxi Guo, Li Yuming, Hengyuan Zhang, <strong>Cong Ma</strong>, Yuan Li
 <td width="75%" valign="middle">
 <papertitle><strong>Roadside Camera-LiDAR Calibration without Annotation</strong></papertitle>
 <br>
-Shaojie Jin, <strong>Cong Ma</strong>, Fei Hui
+Xiangmo Zhao, Shaojie Jin, <strong>Cong Ma*</strong>, Ying Gao, Fei Hui
 <br>
 <em> <span style="color: blue;">IEEE Sensors Journal, 2024 (Under Review)</span></em>
 </td>
