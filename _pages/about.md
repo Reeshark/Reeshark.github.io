@@ -21,7 +21,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
   <div class="container">
     <div class="icon">
-      <img src="icon.png" alt="图标">
+      <img src="http://reeshark.github.io/images/CVPR2024_holovic.png" alt="图标">
     </div>
     <div class="text">
       <ul>
