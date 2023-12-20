@@ -22,7 +22,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
   <div class="container">
     <div class="icon">
-      <svg width="200px" height="200px">
+      <svg width="500px" height="300px">
         <image xlink:href="http://reeshark.github.io/images/sensetime_icon.jpg" />
       </svg>
     </div>
@@ -40,10 +40,6 @@ Any academic and project cooperation intentions are welcome to contact me: macon
     .container {
       display: flex;
       align-items: center;
-    }
-
-    .icon {
-      margin-right: 300px;
     }
   </style>
 </body>
