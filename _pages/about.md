@@ -20,6 +20,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
   <div class="container">
+    <div class="image">
       <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="20%" height="20%">
   </div>
     <div class="text">
