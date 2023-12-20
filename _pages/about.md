@@ -19,59 +19,15 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <h2 style="text-align: left;">Experience</h2>
 
 <html>
-<head>
-<style>
-.container {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
-
-.image {
-  width: 15%;
-  height: 15%;
-  margin: 0 auto;
-}
-
-.text {
-  width: 85%;
-  margin: 0 auto;
-}
-</style>
-</head>
-<body>
-<div class="container">
-<div class="image">
- <br>
-<br>
-<img src="http://reeshark.github.io/images/sensetime_icon.jpg">
-</div>
-<div class="text">
-<papertitle><strong>Sensetime (2021-present)</strong></papertitle>
-<br>
-Senior Researcher & Tech Adviser
-<br>
-<em><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</em>
-<br>
-<em><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</em>
-</div>
-</div>
-</body>
-</html>
-
-<br>
-
-<html>
 <body>
 <div class="container" style="width:100%;">
 <div class="image" style="width: 15%; height: 15%; float:left;">
 <img src="http://reeshark.github.io/images/sensetime_icon.jpg">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Sensetime (2021-present)</font></strong>
+<strong><font size = "5">Sensetime (2021-present)</font></strong>
 <br>
-Senior Researcher & Tech Adviser
+<font size = "3.5">Senior Researcher & Tech Adviser</font>
 <br>
 <em><font size = "3.5"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</font></em>
 <br>
