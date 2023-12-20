@@ -52,7 +52,6 @@ Senior Researcher & Tech Adviser
 <em><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</em>
 </div>
 </div>
-
 </body>
 </html>
 
