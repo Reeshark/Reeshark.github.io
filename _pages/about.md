@@ -37,7 +37,9 @@ Senior Researcher & Tech Adviser
 </body>
 </html>
 
-
+<br>
+<br>
+<br>
 
 <h2 style="text-align: left;">Education</h2>
 
