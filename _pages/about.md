@@ -19,6 +19,48 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <h2 style="text-align: left;">Experience</h2>
 
 <html>
+<head>
+<style>
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 20%;
+  height: 20%;
+  margin: 0 auto;
+}
+
+.text {
+  width: 80%;
+  margin: 0 auto;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="image">
+ <br>
+<br>
+<img src="http://reeshark.github.io/images/sensetime_icon.jpg">
+</div>
+<div class="text">
+<papertitle><strong>Sensetime (2021-present)</strong></papertitle>
+<br>
+Senior Researcher & Tech Adviser
+<br>
+<em><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</em>
+<br>
+<em><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</em>
+</div>
+</div>
+</body>
+</html>
+
+<html>
 <body>
 <div class="container" style="width:100%;">
 <div class="image" style="width: 20%; height: 20%; float:left;">
