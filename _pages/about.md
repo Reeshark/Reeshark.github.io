@@ -21,25 +21,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
   <div class="container">
     <div class="image">
-      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten">
-    </div>
-    <div class="text">
-      <h1>This is a cute kitten</h1>
-      <p>This kitten is very playful and loves to cuddle.</p>
-      <p>It is a great pet for families with children.</p>
-      <p>If you are looking for a new pet, this kitten would be a great choice.</p>
-    </div>
-  </div>
-</body>
-</html>
-
-<html>
-<body>
-  <div class="container">
-    <div class="icon">
-      <svg width="500px" height="300px">
-        <image xlink:href="http://reeshark.github.io/images/sensetime_icon.jpg" />
-      </svg>
+      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten style="width: 200px; height: 200px;">
     </div>
     <div class="text">
       <papertitle><strong>Sensetime</strong></papertitle>
@@ -50,6 +32,8 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       <p>Research Fields:2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</p>
     </div>
   </div>
+</body>
+</html>
 
   <style>
     .container {
