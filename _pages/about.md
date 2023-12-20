@@ -41,6 +41,9 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       display: flex;
       align-items: center;
     }
+        .icon {
+      margin-right: 300px;
+    }
   </style>
 </body>
 </html>
