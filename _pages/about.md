@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cong Ma profile"
+title: "About Me"
 excerpt: "Cong Ma (马璁)"
 author_profile: true
 redirect_from: 
