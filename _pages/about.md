@@ -29,7 +29,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       Senior Researcher & Tech Adviser
       <br>
       <em><strong>Projects:</strong>strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</em>
-      <em><strong>Research Fields:</strong>strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</em>
+      <em><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</em>
     </div>
   </div>
 
@@ -39,7 +39,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       align-items: center;
     }
         .icon {
-      margin-right: 300px;
+      margin-right: 100px;
     }
   </style>
 </body>
