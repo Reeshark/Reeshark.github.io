@@ -23,15 +23,16 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
   <div class="container">
     <div class="icon">
-      <td width="300px"><img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="图标"  width="100%" height="100%" ></td>
+      <td width="500px"><img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="图标"  width="100%" height="100%" ></td>
     </div>
     <div class="text">
-      <ul>
-        <li>第一行文字</li>
-        <li>第二行文字</li>
-        <li>第三行文字</li>
-        <li>第四行文字</li>
-      </ul>
+      <papertitle><strong>	
+      HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative</strong></papertitle>
+      <br>
+      <strong>Cong Ma</strong>, Qiao Lei, Chengkai Zhu, Kai Liu, Zelong Kong, Liqing, Xueqi Zhou, Yuheng KAN, Wei Wu
+      <br>
+      <em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (Under Review)</span></em>
+      <p>Paper, Github, Benchmark</p>
     </div>
   </div>
 
@@ -42,7 +43,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
     }
 
     .icon {
-      margin-right: 10px;
+      margin-right: 300px;
     }
   </style>
 </body>
