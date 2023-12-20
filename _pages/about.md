@@ -20,9 +20,9 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 <html>
 <body>
-<div class="container" style="width:50%;">
+<div class="container" style="width:100%;">
 <div class="image" style="width: 30%; height: 30%; float:left;">
-<img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten">
+<img src="http://reeshark.github.io/images/sensetime_icon.jpg">
 </div>
 <div class="text" style="width: 70%;float:right;">
 <papertitle><strong>Sensetime (2021-present)</strong></papertitle>
