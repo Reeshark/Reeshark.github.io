@@ -20,7 +20,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
   <div class="container">
-      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="30%" height="30%">
+      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="20%" height="20%">
   </div>
     <div class="text">
       <papertitle><strong>Sensetime (2021-present)</strong></papertitle>
@@ -40,7 +40,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       align-items: center;
     }
         .icon {
-      margin-right: 1px;
+      margin-right: 100px;
     }
   </style>
 
