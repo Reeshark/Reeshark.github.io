@@ -64,7 +64,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
 <div class="container" style="width:100%;">
-<div class="image" style="width: 15%; height: 15%; float:left;">
+<div class="image" style="width: 10%; height: 10%; float:left;">
 <img src="http://reeshark.github.io/images/stanford.jpg">
 </div>
 <div class="text" style="width: 80%;float:right;">
@@ -84,7 +84,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
 <div class="container" style="width:100%;">
-<div class="image" style="width: 15%; height: 15%; float:left;">
+<div class="image" style="width: 10%; height: 10%; float:left;">
 <img src="http://reeshark.github.io/images/aibee.png">
 </div>
 <div class="text" style="width: 80%;float:right;">
@@ -105,17 +105,17 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
 <div class="container" style="width:100%;">
-<div class="image" style="width: 15%; height: 15%; float:left;">
-<img src="http://reeshark.github.io/images/aibee.png">
+<div class="image" style="width: 10%; height: 10%; float:left;">
+<img src="http://reeshark.github.io/images/pku.png">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Aibee (2018-2019)</font></strong>
+<strong><font size = "4.5">Peking University (2016-2021)</font></strong>
 <br>
-<font size = "3.5">Research Intern</font>
+<font size = "3.5">Ph.D. (Computer Applied Technology)</font>
 <br>
-<em><font size = "3.5"><strong>Projects: Smart Shopping Mall</strong></font></em>
+<em><font size = "3.5"><strong>Projects: Smart City, Intelligent Park </strong></font></em>
 <br>
-<em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Person Re-identification</font></em>
+<em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Segmentation, Person Re-identification</font></em>
 </div>
 </div>
 </body>
@@ -125,17 +125,17 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
 <div class="container" style="width:100%;">
-<div class="image" style="width: 15%; height: 15%; float:left;">
-<img src="http://reeshark.github.io/images/aibee.png">
+<div class="image" style="width: 10%; height: 10%; float:left;">
+<img src="http://reeshark.github.io/images/xidian.jpeg">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Aibee (2018-2019)</font></strong>
+<strong><font size = "4.5">Xidian University (2012-2016)</font></strong>
 <br>
-<font size = "3.5">Research Intern</font>
+<font size = "3.5">Bachelor of Engineering (Articial Intelligence)</font>
 <br>
-<em><font size = "3.5"><strong>Projects: Smart Shopping Mall</strong></font></em>
+<em><font size = "3.5"><strong>Projects: Wise-wheelchair, Smart Spinning</strong></font></em>
 <br>
-<em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Person Re-identification</font></em>
+<em><font size = "3.5"><strong>Research Fields:</strong> View Synthesis, Virual Reality, BrainWave Recognition</font></em>
 </div>
 </div>
 </body>
