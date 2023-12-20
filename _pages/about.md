@@ -20,8 +20,8 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
   <div class="container">
-    <td width="300px"><div class="image">
-      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="20%" height="20%"></td>
+    <div class="image">
+      <td width="300px"><img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="20%" height="20%"></td>
   </div>
     <div class="text">
       <papertitle><strong>Sensetime (2021-present)</strong></papertitle>
