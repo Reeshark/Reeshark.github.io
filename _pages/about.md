@@ -20,8 +20,27 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
   <div class="container">
+    <div class="image" style="width: 5%; height: 5%;">
+      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten">
+    </div>
+    <div class="text" style="width: 95%;">
+      <papertitle><strong>Sensetime (2021-present)</strong></papertitle>
+      <br>
+      Senior Researcher & Tech Adviser
+      <br>
+      <em><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</em>
+      <br>
+      <em><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</em>
+    </div>
+  </div>
+</body>
+</html>
+
+<html>
+<body>
+  <div class="container">
     <div class="image">
-      <td width="300px"><img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="20%" height="20%"></td>
+      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="20%" height="20%">
   </div>
     <div class="text">
       <papertitle><strong>Sensetime (2021-present)</strong></papertitle>
