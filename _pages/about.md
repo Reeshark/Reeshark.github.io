@@ -73,9 +73,9 @@ Senior Researcher & Tech Adviser
 <br>
 Senior Researcher & Tech Adviser
 <br>
-<em><strong><font size = "3.5">Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</font></em>
+<em><font size = "3.5"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</font></em>
 <br>
-<em><strong><font size = "3.5">Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
+<em><font size = "3.5"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
 </div>
 </div>
 </body>
