@@ -50,7 +50,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <div class="text" style="width: 80%;float:right;">
 <strong><font size = "4.5">Sensetime (2021-present)</font></strong>
 <br>
-<font size = "3.5">Senior Researcher & Tech Adviser</font>
+<font size = "3.5">Senior Researcher & Technical Adviser</font>
 <br>
 <em><font size = "3"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure Cooperation, Smart Surveillance System</font></em>
 <br>
