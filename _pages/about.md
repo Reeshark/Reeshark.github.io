@@ -113,7 +113,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <br>
 <font size = "3.5">Ph.D. (Computer Applied Technology)</font>
 <br>
-<em><font size = "3.5"><strong>Projects: Smart City, Intelligent Park </strong></font></em>
+<em><font size = "3.5"><strong>Projects: </strong> Smart City, Intelligent Park</font></em>
 <br>
 <em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Segmentation, Person Re-identification</font></em>
 </div>
@@ -133,7 +133,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <br>
 <font size = "3.5">Bachelor of Engineering (Articial Intelligence)</font>
 <br>
-<em><font size = "3.5"><strong>Projects: Wise-wheelchair, Smart Spinning</strong></font></em>
+<em><font size = "3.5"><strong>Projects:</strong> Wise-wheelchair, Smart Spinning</font></em>
 <br>
 <em><font size = "3.5"><strong>Research Fields:</strong> View Synthesis, Virual Reality, BrainWave Recognition</font></em>
 </div>
