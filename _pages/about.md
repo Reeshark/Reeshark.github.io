@@ -48,13 +48,13 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <img src="http://reeshark.github.io/images/sensetime_icon.jpg">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Sensetime (2021-present)</font></strong>
+<strong><font size = "3.5">Sensetime (2021-present)</font></strong>
 <br>
-<font size = "3.5">Senior Researcher & Technical Adviser</font>
+<font size = "2.5">Senior Researcher & Technical Adviser</font>
 <br>
-<em><font size = "3"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure Cooperation, Smart Surveillance System</font></em>
+<em><font size = "2"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure Cooperation, Smart Surveillance System</font></em>
 <br>
-<em><font size = "3"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
+<em><font size = "2"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
 </div>
 </div>
 </body>
@@ -68,13 +68,13 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <img src="http://reeshark.github.io/images/stanford.jpg">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Stanford University (2020-2021)</font></strong>
+<strong><font size = "3.5">Stanford University (2020-2021)</font></strong>
 <br>
-<font size = "3.5">Visiting Student Researcher (Remote, due to Covid-19)</font>
+<font size = "2.5">Visiting Student Researcher (Remote, due to Covid-19)</font>
 <br>
-<em><font size = "3.5"><strong>Projects:</strong> JackRabbot </font></em>
+<em><font size = "2"><strong>Projects:</strong> JackRabbot </font></em>
 <br>
-<em><font size = "3.5"><strong>Research Fields:</strong> Lidar3D Detection, Multi-Object Tracking</font></em>
+<em><font size = "2"><strong>Research Fields:</strong> Lidar3D Detection, Multi-Object Tracking</font></em>
 </div>
 </div>
 </body>
@@ -88,13 +88,13 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <img src="http://reeshark.github.io/images/aibee.png">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Aibee (2018-2019)</font></strong>
+<strong><font size = "3.5">Aibee (2018-2019)</font></strong>
 <br>
-<font size = "3.5">Research Intern</font>
+<font size = "2.5">Research Intern</font>
 <br>
-<em><font size = "3.5"><strong>Projects: </strong>Smart Shopping Mall</font></em>
+<em><font size = "2"><strong>Projects: </strong>Smart Shopping Mall</font></em>
 <br>
-<em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Person Re-identification</font></em>
+<em><font size = "2"><strong>Research Fields:</strong> Multi-Object Tracking, Person Re-identification</font></em>
 </div>
 </div>
 </body>
@@ -109,13 +109,13 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <img src="http://reeshark.github.io/images/pku.png">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Peking University (2016-2021)</font></strong>
+<strong><font size = "3.5">Peking University (2016-2021)</font></strong>
 <br>
-<font size = "3.5">Ph.D. (Computer Applied Technology)</font>
+<font size = "2.5">Ph.D. (Computer Applied Technology)</font>
 <br>
-<em><font size = "3.5"><strong>Projects: </strong> Smart City, Intelligent Park</font></em>
+<em><font size = "2"><strong>Projects: </strong> Smart City, Intelligent Park</font></em>
 <br>
-<em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Segmentation, Person Re-identification</font></em>
+<em><font size = "2"><strong>Research Fields:</strong> Multi-Object Tracking, Segmentation, Person Re-identification</font></em>
 </div>
 </div>
 </body>
@@ -129,13 +129,13 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <img src="http://reeshark.github.io/images/xidian.jpeg">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "4.5">Xidian University (2012-2016)</font></strong>
+<strong><font size = "3.5">Xidian University (2012-2016)</font></strong>
 <br>
-<font size = "3.5">Bachelor of Engineering (Articial Intelligence)</font>
+<font size = "2.5">Bachelor of Engineering (Articial Intelligence)</font>
 <br>
-<em><font size = "3.5"><strong>Projects:</strong> Wise-wheelchair, Smart Spinning</font></em>
+<em><font size = "2"><strong>Projects:</strong> Wise-wheelchair, Smart Spinning</font></em>
 <br>
-<em><font size = "3.5"><strong>Research Fields:</strong> View Synthesis, Virual Reality, BrainWave Recognition</font></em>
+<em><font size = "2"><strong>Research Fields:</strong> View Synthesis, Virual Reality, BrainWave Recognition</font></em>
 </div>
 </div>
 </body>
