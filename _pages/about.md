@@ -18,21 +18,19 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 <h2 style="text-align: left;">Experience</h2>
 
-<!DOCTYPE html>
 <html>
 <body>
   <div class="container">
     <div class="icon">
-      <td width="500px"><img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="图标"  width="100%" height="100%" ></td>
+      <td width="500px"><img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="图标" width="200px" height="200px"></td>
     </div>
     <div class="text">
-      <papertitle><strong>	
-      HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative</strong></papertitle>
+      <papertitle><strong>Sensetime</strong></papertitle>
       <br>
-      <strong>Cong Ma</strong>, Qiao Lei, Chengkai Zhu, Kai Liu, Zelong Kong, Liqing, Xueqi Zhou, Yuheng KAN, Wei Wu
+      Senior Researcher & Tech Adviser
       <br>
-      <em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (Under Review)</span></em>
-      <p>Paper, Github, Benchmark</p>
+      <em>Projects: Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</em>
+      <p>Research Fields:2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</p>
     </div>
   </div>
 
