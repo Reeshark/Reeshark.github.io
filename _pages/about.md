@@ -29,13 +29,13 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 }
 
 .image {
-  width: 20%;
-  height: 20%;
+  width: 15%;
+  height: 15%;
   margin: 0 auto;
 }
 
 .text {
-  width: 80%;
+  width: 85%;
   margin: 0 auto;
 }
 </style>
@@ -60,16 +60,16 @@ Senior Researcher & Tech Adviser
 </body>
 </html>
 
+<br>
+
 <html>
 <body>
 <div class="container" style="width:100%;">
-<div class="image" style="width: 20%; height: 20%; float:left;">
-  <br>
-<br>
+<div class="image" style="width: 15%; height: 15%; float:left;">
 <img src="http://reeshark.github.io/images/sensetime_icon.jpg">
 </div>
-<div class="text" style="width: 80%;float:right;">
-<papertitle><strong>Sensetime (2021-present)</strong></papertitle>
+<div class="text" style="width: 85%;float:right;">
+<papertitle><strong><font size = "7">Sensetime (2021-present)</font></strong></papertitle>
 <br>
 Senior Researcher & Tech Adviser
 <br>
