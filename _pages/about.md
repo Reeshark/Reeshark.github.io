@@ -22,7 +22,9 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
   <div class="container">
     <div class="icon">
-      <td width="500px"><img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="图标" width="200px" height="200px"></td>
+      <svg width="200px" height="200px">
+        <image xlink:href="http://reeshark.github.io/images/sensetime_icon.jpg" />
+      </svg>
     </div>
     <div class="text">
       <papertitle><strong>Sensetime</strong></papertitle>
