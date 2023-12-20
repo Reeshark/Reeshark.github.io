@@ -18,10 +18,15 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 <h2 style="text-align: left;">Experience</h2>
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>图标和文字</title>
+</head>
 <body>
   <div class="container">
     <div class="icon">
-      <img src="http://reeshark.github.io/images/CVPR2024_holovic.png" alt="图标">
+      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="图标">
     </div>
     <div class="text">
       <ul>
@@ -32,7 +37,19 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       </ul>
     </div>
   </div>
+
+  <style>
+    .container {
+      display: flex;
+      align-items: center;
+    }
+
+    .icon {
+      margin-right: 10px;
+    }
+  </style>
 </body>
+</html>
 
 
 <h2 style="text-align: left;">Education</h2>
