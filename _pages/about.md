@@ -20,8 +20,8 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <html>
 <body>
   <div class="container">
-    <div class="image">
-      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="20%" height="20%">
+    <td width="300px"><div class="image">
+      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="20%" height="20%"></td>
   </div>
     <div class="text">
       <papertitle><strong>Sensetime (2021-present)</strong></papertitle>
@@ -35,16 +35,6 @@ Any academic and project cooperation intentions are welcome to contact me: macon
   </div>
 </body>
 </html>
-.container {
-  display: flex;
-  flex-direction: row-reverse; /* 将图像放在右侧，文本放在左侧 */
-}
-.image {
-  width: 200px; /* 图像的宽度设置为 200 像素 */
-}
-.text {
-  width: 600px; /* 文本的宽度设置为 600 像素 */
-}
 
 
 
