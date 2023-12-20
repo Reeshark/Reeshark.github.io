@@ -21,10 +21,10 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
   <div class="container">
     <div class="image">
-      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" style="width: 200px; height: 200px;">
+      <img src="http://reeshark.github.io/images/sensetime_icon.jpg" alt="A cute kitten" width="30%" height="30%">
     </div>
     <div class="text">
-      <papertitle><strong>Sensetime</strong></papertitle>
+      <papertitle><strong>Sensetime (2021-present)</strong></papertitle>
       <br>
       Senior Researcher & Tech Adviser
       <br>
