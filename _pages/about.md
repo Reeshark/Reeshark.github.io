@@ -80,13 +80,9 @@ Senior Researcher & Tech Adviser
 </div>
 </body>
 </html>
+  
+<hr>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h2 style="text-align: left;">Education</h2>
 
