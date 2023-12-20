@@ -68,8 +68,8 @@ Senior Researcher & Tech Adviser
 <div class="image" style="width: 15%; height: 15%; float:left;">
 <img src="http://reeshark.github.io/images/sensetime_icon.jpg">
 </div>
-<div class="text" style="width: 85%;float:right;">
-<papertitle><strong><font size = "7">Sensetime (2021-present)</font></strong></papertitle>
+<div class="text" style="width: 75%;float:right;">
+<strong><font size = "3">Sensetime (2021-present)</font></strong>
 <br>
 Senior Researcher & Tech Adviser
 <br>
