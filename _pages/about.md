@@ -212,6 +212,20 @@ Xiaodong Xie,
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/ICIP2018.png"><img src="http://reeshark.github.io/images/ICIP2018.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>Dense relation network: Learning consistent and context-aware representation for semantic image segmentation</strong></papertitle>
+<br>
+Yueqing Zhuang, Fan Yang, Li Tao, <strong>Cong Ma</strong>, Ziwei Zhang, Yuan Li, Huizhu Jia, Xiaodong Xie, Wen Gao
+<br>
+<em> <span style="color: blue;">IEEE international conference on image processing (ICIP), 2018</span></em> <p><a href="http://reeshark.github.io/files/Dense relation network Learning consistent and context-aware representation for semantic image segmentation, 25th IEEE International Conference on Image Processing, 2018.pdf">Paper</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
