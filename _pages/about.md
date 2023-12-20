@@ -17,6 +17,7 @@ In addition to my research contributions, I have served as a reviewer for presti
 Any academic and project cooperation intentions are welcome to contact me: macong[at]sensetime(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
 <h2 style="text-align: left;">Experience</h2>
+<br>
 
 <html>
 <body>
@@ -25,7 +26,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <img src="http://reeshark.github.io/images/sensetime_icon.jpg">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "5">Sensetime (2021-present)</font></strong>
+<strong><font size = "4.5">Sensetime (2021-present)</font></strong>
 <br>
 <font size = "3.5">Senior Researcher & Tech Adviser</font>
 <br>
