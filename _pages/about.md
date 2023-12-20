@@ -392,3 +392,46 @@ Xiaodong Xie,
 <h2 style="text-align: left;">Awards and Honors</h2>
 
 <h2 style="text-align: left;">Patents</h2>
+
+
+
+<html>
+<head>
+<style>
+#map {
+  height: 400px;
+  width: 100%;
+}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+function initMap() {
+  var map = new google.maps.Map(document.getElementById('map'), {
+    center: {lat: -34.397, lng: 150.644},
+    zoom: 8
+  });
+
+  // Create a heatmap layer
+  var heatmap = new google.maps.visualization.HeatmapLayer({
+    data: getPoints(),
+    map: map
+  });
+}
+
+function getPoints() {
+  return [
+    {location: new google.maps.LatLng(37.773972, -122.431297), weight: 1},
+    {location: new google.maps.LatLng(37.768805, -122.424508), weight: 1},
+    {location: new google.maps.LatLng(37.765129, -122.419415), weight: 1},
+    {location: new google.maps.LatLng(37.770516, -122.453727), weight: 1},
+    {location: new google.maps.LatLng(37.759420, -122.413153), weight: 1}
+  ];
+}
+</script>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+</script>
+</body>
+</html>
