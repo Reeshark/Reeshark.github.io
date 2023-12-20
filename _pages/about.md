@@ -32,7 +32,8 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       <em><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</em>
     </div>
   </div>
-
+</body>
+</html>
   <style>
     .container {
       display: flex;
@@ -42,8 +43,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
       margin-right: 1px;
     }
   </style>
-</body>
-</html>
+
 
 
 <h2 style="text-align: left;">Education</h2>
