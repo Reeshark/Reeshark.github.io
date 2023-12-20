@@ -52,7 +52,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <br>
 <font size = "3.5">Senior Researcher & Tech Adviser</font>
 <br>
-<em><font size = "3"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure, Smart Surveillance System</font></em>
+<em><font size = "3"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure Cooperation, Smart Surveillance System</font></em>
 <br>
 <em><font size = "3"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
 </div>
@@ -92,7 +92,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <br>
 <font size = "3.5">Research Intern</font>
 <br>
-<em><font size = "3.5"><strong>Projects: Smart Shopping Mall</strong></font></em>
+<em><font size = "3.5"><strong>Projects: </strong>Smart Shopping Mall</font></em>
 <br>
 <em><font size = "3.5"><strong>Research Fields:</strong> Multi-Object Tracking, Person Re-identification</font></em>
 </div>
