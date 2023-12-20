@@ -35,15 +35,16 @@ Any academic and project cooperation intentions are welcome to contact me: macon
   </div>
 </body>
 </html>
-  <style>
-    .container {
-      display: flex;
-      align-items: center;
-    }
-        .icon {
-      margin-right: 1000px;
-    }
-  </style>
+.container {
+  display: flex;
+  flex-direction: row-reverse; /* 将图像放在右侧，文本放在左侧 */
+}
+.image {
+  width: 200px; /* 图像的宽度设置为 200 像素 */
+}
+.text {
+  width: 600px; /* 文本的宽度设置为 600 像素 */
+}
 
 
 
