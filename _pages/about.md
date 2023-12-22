@@ -393,9 +393,6 @@ Xiaodong Xie,
 
 <html>
 <body>
-
-
-<class="text" style="width: 80%;float:right;">
 <strong><font size = "3.5">Sensetime (2021-present)</font></strong>
 <br>
 <font size = "2.5">Senior Researcher & Technical Adviser</font>
@@ -406,6 +403,13 @@ Xiaodong Xie,
 
 </body>
 </html>
+1.<a href="http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html">The 11th “Person of the Year” for college student nomination in 2016</a>
+  2016年第十一届大学生“年度人物“候选
+2.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=b2de9c82d158ccbff68d820114d8bc3eb13541d3"Meritorious Winner on Interdisciplinary Contest In Modeling Certificate of Achievement, in 2015 </a>
+  美国大学生数学建模大赛一等奖
+
+
+<a href="" </a>
 
 <h2 style="text-align: left;">Patents</h2>
 
