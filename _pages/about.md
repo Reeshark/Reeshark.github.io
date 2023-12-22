@@ -391,6 +391,22 @@ Xiaodong Xie,
 
 <h2 style="text-align: left;">Awards and Honors</h2>
 
+<html>
+<body>
+
+
+<class="text" style="width: 80%;float:right;">
+<strong><font size = "3.5">Sensetime (2021-present)</font></strong>
+<br>
+<font size = "2.5">Senior Researcher & Technical Adviser</font>
+<br>
+<em><font size = "2"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure Cooperation, Smart Surveillance System</font></em>
+<br>
+<em><font size = "2"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection, Multi-Object Tracking, Multi-Sensor Tracking</font></em>
+
+</body>
+</html>
+
 <h2 style="text-align: left;">Patents</h2>
 
 
