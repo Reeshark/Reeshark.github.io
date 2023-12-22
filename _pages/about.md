@@ -432,15 +432,15 @@ Xiaodong Xie,
 
 
 <h2 style="text-align: left;">Patents</h2>
-<em><font size = "2"> 1.Virtual View Synthesis Method and Device Inventors: Changshui Yang, Huizhu Jia, <strong>Cong Ma</strong>, Xiaodong Xie, Chen Rui, Patent No.: CN106162137B</font></em>
+<em><font size = "2"> 1.<strong>Virtual View Synthesis Method and Device</strong>, Inventors: Changshui Yang, Huizhu Jia, <strong>Cong Ma</strong>, Xiaodong Xie, Chen Rui, <strong>Patent No.</strong>: CN106162137B</font></em>
 <br>
-<em><font size = "2"> 2.Image denoising method and image denoising device, inventors: Changshui Yang, <strong>Cong Ma</strong>, Huizhu Jia, Xiaodong Xie, Rui Chen, Wen Gao,  Patent No.: CN106162137A</font></em>
+<em><font size = "2"> 2.<strong>Image denoising method and image denoising device</strong>, inventors: Changshui Yang, <strong>Cong Ma</strong>, Huizhu Jia, Xiaodong Xie, Rui Chen, Wen Gao,  <strong>Patent No.</strong>: CN106162137A</font></em>
 <br>
-<em><font size = "2"> 3.A Stereoscopic Image Acquisition Device Inventor: <strong>Cong Ma</strong>, Patent No.: CN202043213U</font></em>
+<em><font size = "2"> 3.<strong>A Stereoscopic Image Acquisition Device</strong>, Inventor: <strong>Cong Ma</strong>, <strong>Patent No.</strong>: CN202043213U</font></em>
 <br>
-<em><font size = "2"> 4.A Wheelchair Controlled by Eye-Tracking Developed by <strong>Cong Ma</strong>, Yi Zhu, Yanfang Guo, Jingyan Geng, Patent No.: CN204863717U</font></em>
+<em><font size = "2"> 4.<strong>A Wheelchair Controlled by Eye-Tracking Developed by <strong>Cong Ma</strong></strong>, Yi Zhu, Yanfang Guo, Jingyan Geng, <strong>Patent No.</strong>: CN204863717U</font></em>
 <br>
-<em><font size = "2"> 5.Multifunctional Somatosensory Synchronous Bicycle Fitness and Entertainment System, Inventors: <strong>Cong Ma</strong>, Yicong Zhu, Yicong Cao, Patent No.: CN204073263U</font></em>
+<em><font size = "2"> 5.<strong>Multifunctional Somatosensory Synchronous Bicycle Fitness and Entertainment System</strong>, Inventors: <strong>Cong Ma</strong>, Yicong Zhu, Yicong Cao, <strong>Patent No.</strong>: CN204073263U</font></em>
 <br>
-<em><font size = "2"> 6.Multi-functional Somatosensory Synchronous Bicycle Fitness Entertainment Method and System, Inventors: Yi Zhu, <strong>Cong Ma</strong>, Yicong Cao, Patent No.: CN104147759A</font></em>
+<em><font size = "2"> 6.<strong>Multi-functional Somatosensory Synchronous Bicycle Fitness Entertainment Method and System</strong>, Inventors: Yi Zhu, <strong>Cong Ma</strong>, Yicong Cao, <strong>Patent No.</strong>: CN104147759A</font></em>
 <br>
