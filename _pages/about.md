@@ -436,13 +436,13 @@ Xiaodong Xie,
 <h2 style="text-align: left;">Patents</h2>
 <em><font size = "2"> 1.Virtual View Synthesis Method and Device Inventors: Changshui Yang, Huizhu Jia, <strong>Cong Ma</strong>, Xiaodong Xie, Chen Rui, Patent No.: CN106162137B</font></em>
 <br>
-<em><font size = "2"> 2.Image denoising method and image denoising device, inventors: Changshui Yang, Cong Ma, Huizhu Jia, Xiaodong Xie, Rui Chen, Wen Gao,  Patent No.: CN106162137A</font></em>
+<em><font size = "2"> 2.Image denoising method and image denoising device, inventors: Changshui Yang, <strong>Cong Ma</strong>, Huizhu Jia, Xiaodong Xie, Rui Chen, Wen Gao,  Patent No.: CN106162137A</font></em>
 <br>
-<em><font size = "2"> 3.A Stereoscopic Image Acquisition Device Inventor: Cong Ma, Patent No.: CN202043213U</font></em>
+<em><font size = "2"> 3.A Stereoscopic Image Acquisition Device Inventor: <strong>Cong Ma</strong>, Patent No.: CN202043213U</font></em>
 <br>
-<em><font size = "2"> 4.A Wheelchair Controlled by Eye-Tracking Developed by Cong Ma, Yi Zhu, Yanfang Guo, Jingyan Geng, Patent No.: CN204863717U</font></em>
+<em><font size = "2"> 4.A Wheelchair Controlled by Eye-Tracking Developed by <strong>Cong Ma</strong>, Yi Zhu, Yanfang Guo, Jingyan Geng, Patent No.: CN204863717U</font></em>
 <br>
-<em><font size = "2"> 5.Multifunctional Somatosensory Synchronous Bicycle Fitness and Entertainment System, Inventors: Cong Ma, Yicong Zhu, Yicong Cao, Patent No.: CN204073263U</font></em>
+<em><font size = "2"> 5.Multifunctional Somatosensory Synchronous Bicycle Fitness and Entertainment System, Inventors: <strong>Cong Ma</strong>, Yicong Zhu, Yicong Cao, Patent No.: CN204073263U</font></em>
 <br>
-<em><font size = "2"> 6.Multi-functional Somatosensory Synchronous Bicycle Fitness Entertainment Method and System, Inventors: Yi Zhu, Cong Ma, Yicong Cao, Patent No.: CN104147759A</font></em>
+<em><font size = "2"> 6.Multi-functional Somatosensory Synchronous Bicycle Fitness Entertainment Method and System, Inventors: Yi Zhu, <strong>Cong Ma</strong>, Yicong Cao, Patent No.: CN104147759A</font></em>
 <br>
