@@ -430,8 +430,6 @@ Xiaodong Xie,
 </html>
 
 
-<br>
-<a href="" </a>
 
 <h2 style="text-align: left;">Patents</h2>
 <em><font size = "2"> 1.Virtual View Synthesis Method and Device Inventors: Changshui Yang, Huizhu Jia, <strong>Cong Ma</strong>, Xiaodong Xie, Chen Rui, Patent No.: CN106162137B</font></em>
