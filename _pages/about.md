@@ -438,7 +438,7 @@ Xiaodong Xie,
 <br>
 <em><font size = "2"> 3.<strong>A Stereoscopic Image Acquisition Device</strong>, Inventor: <strong>Cong Ma</strong>, <strong>Patent No.</strong>: CN202043213U</font></em>
 <br>
-<em><font size = "2"> 4.<strong>A Wheelchair Controlled by Eye-Tracking Developed by <strong>Cong Ma</strong></strong>, Yi Zhu, Yanfang Guo, Jingyan Geng, <strong>Patent No.</strong>: CN204863717U</font></em>
+<em><font size = "2"> 4.<strong>A Wheelchair Controlled by Eye-Tracking</strong>, Inventor: <strong>Cong Ma</strong>, Yi Zhu, Yanfang Guo, Jingyan Geng, <strong>Patent No.</strong>: CN204863717U</font></em>
 <br>
 <em><font size = "2"> 5.<strong>Multifunctional Somatosensory Synchronous Bicycle Fitness and Entertainment System</strong>, Inventors: <strong>Cong Ma</strong>, Yicong Zhu, Yicong Cao, <strong>Patent No.</strong>: CN204073263U</font></em>
 <br>
