@@ -432,7 +432,7 @@ Xiaodong Xie,
 
 
 <h2 style="text-align: left;">Patents</h2>
-<em><font size = "2"> 1.<strong>Virtual View Synthesis Method and Device</strong>, Inventors: Changshui Yang, Huizhu Jia, <strong>Cong Ma</strong>, Xiaodong Xie, Chen Rui, <strong>Patent No.</strong>: CN106162137B</font></em>
+<em><font size = "2"> 1.<strong>Virtual View Synthesis Method and Device</strong>, <strong>Patent No.</strong>: CN106162137B, <br>Inventors: Changshui Yang, Huizhu Jia, <strong>Cong Ma</strong>, Xiaodong Xie, Chen Rui,</font></em>
 <br>
 <em><font size = "2"> 2.<strong>Image denoising method and image denoising device</strong>, inventors: Changshui Yang, <strong>Cong Ma</strong>, Huizhu Jia, Xiaodong Xie, Rui Chen, Wen Gao,  <strong>Patent No.</strong>: CN106162137A</font></em>
 <br>
