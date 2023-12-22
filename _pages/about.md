@@ -402,25 +402,29 @@ Xiaodong Xie,
 <em><font size = "2">  &nbsp;&nbsp;美国大学生数学建模大赛一等奖</font></em>
 
 <br>
-<em><font size = "2">2.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=b3b7d0a20cf431ad4fda97024636acaf2edd9885">The First Prize on “National Challenge Cup” in 2016</a></font></em>
+<em><font size = "2">3.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=b3b7d0a20cf431ad4fda97024636acaf2edd9885">The First Prize on “National Challenge Cup” in 2016</a></font></em>
 <br>
 <em><font size = "2">  &nbsp;&nbsp;第十四届“挑战杯”全国大学生课外学术科技作品竞赛一等奖</font></em>
 
 <br>
-<em><font size = "2">2.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=fc1f4134970a304ee28e77c1dcc8a786c9175c59">The Excellent Award on “Innovation and Entrepreneurship Training Program” in 2014</a></font></em>
+<em><font size = "2">4.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=fc1f4134970a304ee28e77c1dcc8a786c9175c59">The Excellent Award on “Innovation and Entrepreneurship Training Program” in 2014</a></font></em>
 <br>
 <em><font size = "2">  &nbsp;&nbsp; 国家创新创业训练计划项目优秀作品</font></em>
 
 
 <br>
-<em><font size = "2">2.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=b8389b504fc2d562135106d6ea1190ef76c66cb4">The Winning Prize on “Parallel Application Challenge” in 2014</a></font></em>
+<em><font size = "2">5.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=b8389b504fc2d562135106d6ea1190ef76c66cb4">The Winning Prize on “Parallel Application Challenge” in 2014</a></font></em>
 <br>
 <em><font size = "2">  &nbsp;&nbsp;2014年并行应用挑战赛优胜奖</font></em>
 
 <br>
-<em><font size = "2">2.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=f9dcd100baa1cd11c7e4441bb412c8fcc3ce2dbe">National High School Applied Physics Competition Third Prize</a></font></em>
+<em><font size = "2">6.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=f9dcd100baa1cd11c7e4441bb412c8fcc3ce2dbe">National High School Applied Physics Competition Third Prize</a></font></em>
 <br>
 <em><font size = "2">  &nbsp;&nbsp;全国高中应用物理竞赛三等奖</font></em>
+<br>
+<em><font size = "2">7.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=4a36acaf2edda3cc1be5891b0ce93901213f9283">First Prize of World Junior Olympiad Mathematics Competition in Beijing Division </a></font></em>
+<br>
+<em><font size = "2">  &nbsp;&nbsp;世界少年奥林匹克数学竞赛北京赛区一等奖</font></em>
 
 </body>
 </html>
