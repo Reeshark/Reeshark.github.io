@@ -397,7 +397,7 @@ Xiaodong Xie,
 <br>
 <em><font size = "2">  2016年第十一届大学生“年度人物“候选</em>
 <br>
-<em><font size = "2">2.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=b2de9c82d158ccbff68d820114d8bc3eb13541d3"Meritorious Winner on Interdisciplinary Contest In Modeling Certificate of Achievement, in 2015 </a></em>
+<em><font size = "2">2.<a href="https://baike.baidu.com/pic/%E9%A9%AC%E7%92%81/3083016/11/b2de9c82d158ccbff68d820114d8bc3eb13541d3?fr=lemma&fromModule=lemma_content-image#aid=11&pic=b2de9c82d158ccbff68d820114d8bc3eb13541d3">Meritorious Winner on Interdisciplinary Contest In Modeling Certificate of Achievement, in 2015</a></em>
 <br>
 <em><font size = "2">  美国大学生数学建模大赛一等奖</em>
 
