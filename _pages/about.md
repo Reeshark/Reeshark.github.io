@@ -213,7 +213,7 @@ Rui Ma, Mengxi Guo, Li Yuming, Hengyuan Zhang, <strong>Cong Ma</strong>, Yuan Li
 <td width="75%" valign="middle">
 <papertitle><strong>Roadside Camera-LiDAR Calibration without Annotation</strong></papertitle>
 <br>
-Xiangmo Zhao, Shaojie Jin, <strong>Cong Ma*</strong>, Ying Gao, Fei Hui
+Xiangmo Zhao, Shaojie Jin, <strong>Cong Ma</strong>, Ying Gao, Fei Hui
 <br>
 <em> <span style="color: blue;">IEEE Sensors Journal, 2024 (Under Review)</span></em>
 </td>
