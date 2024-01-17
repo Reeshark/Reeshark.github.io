@@ -10,7 +10,7 @@ redirect_from:
 
 I am Cong Ma (马璁), and I obtained my Ph.D. degree from [National Engineering Research Center of Visual Technology, Peking University](https://idm.pku.edu.cn/en) in 2021 advised by Prof. [Xiaidong Xie](https://scholar.google.com/citations?user=9-s2WI8AAAAJ&hl=en&oi=ao) and Prof. [Wen Gao](https://scholar.google.com/citations?user=u9aw5o8AAAAJ&hl=en&oi=ao). I completed my bachelor's degree at [School of Artificial Intelligence, Xidian University](https://sai.xidian.edu.cn/) in 2016 supervised by Prof. [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en&oi=ao). I received a visiting student researcher position at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) under the supervision of Prof. [Silvio Savarese](https://scholar.google.com/citations?hl=en&user=ImpbxLsAAAAJ) in 2020. 
 
-Currently, I am working at [SenseAuto](https://www.senseauto.com/) where I lead a team dedicated to researching the Roadside Holographic Intersection Perception Algorithm such as 2D/Monocular 3D Detection, Lidar 3D Detection, Multi-Object Tracking, and Multi-Sensor Fusion. Recently, I focus on World Model by using AIGC+LLM+3DGS to simulate data for Autonomous Driving Scenes. In addition to this role, I also serves as the Chief Technical Adviser for projects involving Smart-Surveillance Systems, Intelligent Transportation and Vehicle-Infrastructure Cooperation. I am leading a team consisting of two full-time employees, two internships, and six students, who are all dedicated to advancing the field of our projects. Together, we have been actively involved in cutting-edge research. 
+Currently, I am working at [SenseAuto](https://www.senseauto.com/) where I lead a team dedicated to researching the Roadside Holographic Intersection Perception Algorithm such as 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, Multi-Modality Representation, Trajectory Post-processing. Recently, I focus on World Model by using AIGC+LLM+3DGS to simulate data for Autonomous Driving Scenes. In addition to this role, I also serves as the Chief Technical Adviser for projects involving Smart-Surveillance Systems, Intelligent Transportation and Vehicle-Infrastructure Cooperation. I am leading a team consisting of two full-time employees, two internships, and six students, who are all dedicated to advancing the field of our projects. Together, we have been actively involved in cutting-edge research. 
 
 In addition to my research contributions, I have served as a reviewer for prestigious journals and conferences, including IJCV, PR, TIP, TCSVT, AAAI, and ECCV and have reviewed a total of 24 papers. I was nominated for the prestigious ["Person of the Year"](http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html) award in 2016 during my college years.
 
@@ -54,7 +54,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <br>
 <em><font size = "2"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure Cooperation, World Model</font></em>
 <br>
-<em><font size = "2"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, AIGC+LLM, 3DGS </font></em>
+<em><font size = "2"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, Multi-Modality Representation, Trajectory Post-processing, AIGC+LLM+3DGS </font></em>
 </div>
 </div>
 </body>
