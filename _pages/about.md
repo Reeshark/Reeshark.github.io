@@ -224,7 +224,7 @@ HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersec
 <em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024</span></em>
 <p><a href="https://arxiv.org/abs/2403.02640">Paper</a></p>
 <p><a>Github</a></p>
-<p><a href="https://holvic.net">Benchmark</a></p>
+<p><a href="https://holovic.net">Benchmark</a></p>
 </td>
 </tr>
 </tbody>
