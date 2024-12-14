@@ -184,9 +184,9 @@ Haisheng Su, Feixiang Song, <strong>Cong Ma*</strong>, Panpan Cai, Wei Wu, Cewu 
 <tr>
 <td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
 <td width="75%" valign="middle">
-<papertitle><strong>GeoPoint: Geometry Point Embedding for 3D Object Detection with Fully Transformer</strong></papertitle>
+<papertitle><strong>UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection</strong></papertitle>
 <br>
-Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei HUI, Wei Wu
+Xin Jin, Haisheng Su, Kai Liu, <strong>Cong Ma*</strong>, Wei Wu, Fei Hui, Junchi Yan
 <br>
 <em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
 <p>Paper, Github</p>
