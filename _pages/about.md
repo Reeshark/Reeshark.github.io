@@ -50,7 +50,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <div class="text" style="width: 80%;float:right;">
 <strong><font size = "3.5">SenseAuto (2022-present)</font></strong>
 <br>
-<font size = "2.5">Senior Researcher & Technical Adviser</font>
+<font size = "2.5">Senior Scientist & Technical Adviser</font>
 <br>
 <em><font size = "2"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure Cooperation, World Model</font></em>
 <br>
