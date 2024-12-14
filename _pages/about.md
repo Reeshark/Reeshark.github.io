@@ -166,7 +166,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <table>
 <tbody>
 <tr>
-<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="300px"><a href="http://reeshark.github.io/images/Robosense.png"><img src="http://reeshark.github.io/images/Robosense.png" alt="clean-usnob" width="100%" height="100%"></a></td>
 <td width="75%" valign="middle">
 <papertitle><strong>RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving</strong></papertitle>
 <br>
@@ -182,7 +182,7 @@ Haisheng Su, Feixiang Song, <strong>Cong Ma*</strong>, Panpan Cai, Wei Wu, Cewu 
 <table>
 <tbody>
 <tr>
-<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="300px"><a href="http://reeshark.github.io/images/UniMamba.png"><img src="http://reeshark.github.io/images/UniMamba.png" alt="clean-usnob" width="100%" height="100%"></a></td>
 <td width="75%" valign="middle">
 <papertitle><strong>UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection</strong></papertitle>
 <br>
