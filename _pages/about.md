@@ -10,9 +10,9 @@ redirect_from:
 
 I am Cong Ma (马璁), and I obtained my Ph.D. degree from [National Engineering Research Center of Visual Technology, Peking University](https://idm.pku.edu.cn/en) in 2021 advised by Prof. [Xiaidong Xie](https://scholar.google.com/citations?user=9-s2WI8AAAAJ&hl=en&oi=ao) and Prof. [Wen Gao](https://scholar.google.com/citations?user=u9aw5o8AAAAJ&hl=en&oi=ao). I completed my bachelor's degree at [School of Artificial Intelligence, Xidian University](https://sai.xidian.edu.cn/) in 2016 supervised by Prof. [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en&oi=ao). I received a visiting student researcher position at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) under the supervision of Prof. [Silvio Savarese](https://scholar.google.com/citations?hl=en&user=ImpbxLsAAAAJ) in 2020. 
 
-Currently, I am working at [SenseAuto](https://www.senseauto.com/) where I lead a team dedicated to researching the Roadside Holographic Intersection Perception Algorithm such as 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, Multi-Modality Representation, Trajectory Post-processing. Recently, I focus on World Model by using AIGC+LLM+3DGS to simulate data for Autonomous Driving Scenes. In addition to this role, I also serves as the Chief Technical Adviser for projects involving Smart-Surveillance Systems, Intelligent Transportation and Vehicle-Infrastructure Cooperation. I am leading a team consisting of two full-time employees, two internships, and six students, who are all dedicated to advancing the field of our projects. Together, we have been actively involved in cutting-edge research. 
+Currently, I am working at [SenseAuto](https://www.senseauto.com/) where I lead a team dedicated to researching the Roadside Holographic Intersection Perception Algorithm such as 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, Multi-Modality Representation, Trajectory Post-processing. Recently, I focus on World Model to simulate large-scale data for End-to-end Perception Model in Autonomous Driving Scenes. In addition to this role, I also serves as the Chief Technical Adviser for projects involving Smart-Surveillance Systems, Intelligent Transportation and Vehicle-Infrastructure Cooperation. I am leading a team consisting of 4 full-time employees, two internships, and six students, who are all dedicated to advancing the field of our projects. Together, we have been actively involved in cutting-edge research. 
 
-In addition to my research contributions, I have served as a reviewer for prestigious journals and conferences, including IJCV, PR, TIP, TCSVT, AAAI, and ECCV and have reviewed a total of 24 papers. I was nominated for the prestigious ["Person of the Year"](http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html) award in 2016 during my college years.
+In addition to my research contributions, I have served as a reviewer for prestigious journals and conferences, including CVPR, IJCV, PR, TIP, TCSVT, AAAI, and ECCV and have reviewed a total of 40+ papers. I was nominated for the prestigious ["Person of the Year"](http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html) award in 2016 during my college years.
 
 Any academic and project cooperation intentions are welcome to contact me: macong[at]senseauto(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
@@ -161,9 +161,23 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 </body>
 </html>
 
-<h2 style="text-align: left;">Publication</h2>
+<h2 style="text-align: left;">Publication (Under Review)</h2>
 
-
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving</strong></papertitle>
+<br>
+Haisheng Su, Feixiang Song, <strong>Cong Ma*</strong>, Panpan Cai, Wei Wu, Cewu Lu
+<br>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
+<p>Paper, Github</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
@@ -174,7 +188,23 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <br>
 Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei HUI, Wei Wu
 <br>
-<em> <span style="color: blue;">European Conference on Computer Vision (ECCV), 2024 (Under Review)</span></em>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
+<p>Paper, Github</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>GeoPoint: Geometry Point Embedding for 3D Object Detection with Fully Transformer</strong></papertitle>
+<br>
+Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei HUI, Wei Wu
+<br>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
 <p>Paper, Github</p>
 </td>
 </tr>
@@ -190,7 +220,7 @@ Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei HUI, Wei Wu
 <br>
 Ruining Yang*, <strong>Cong Ma*</strong>, Kai Liu, Tianxiang Zhou, Xin Jin, Fei HUI, Wei Wu
 <br>
-<em> <span style="color: blue;">European Conference on Computer Vision (ECCV), 2024 (Under Review)</span></em>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
 </td>
 </tr>
 </tbody>
@@ -205,11 +235,30 @@ Ruining Yang*, <strong>Cong Ma*</strong>, Kai Liu, Tianxiang Zhou, Xin Jin, Fei 
 <br>
 Rui Ma, Mengxi Guo, Li Yuming, Hengyuan Zhang, <strong>Cong Ma</strong>, Yuan Li, Xiaodong Xie, Shanghang Zhang
 <br>
-<em> <span style="color: blue;">European Conference on Computer Vision (ECCV), 2024 (Under Review)</span></em>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
 </td>
 </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>LCSim: A Large-Scale Controllable Traffic Simulator</strong></papertitle>
+<br>
+Yuheng Zhang, Tianjian Ouyang, Fudan Yu, <strong>Cong Ma</strong>, Qiao Lei, Wei Wu, Jian Yuan, Yong Li
+<br>
+<em> <span style="color: blue;">The Thirteenth International Conference on Learning Representations (ICLR), 2025 (Under Review)</span></em>
+<p>Paper, Github</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<h2 style="text-align: left;">Publication</h2>
 
 <table>
 <tbody>
