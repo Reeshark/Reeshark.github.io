@@ -235,7 +235,7 @@ Ruining Yang*, <strong>Cong Ma*</strong>, Kai Liu, Tianxiang Zhou, Xin Jin, Fei 
 <br>
 Rui Ma, Mengxi Guo, Li Yuming, Hengyuan Zhang, <strong>Cong Ma</strong>, Yuan Li, Xiaodong Xie, Shanghang Zhang
 <br>
-<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
+<em> <span style="color: blue;">IEEE Transactions on Circuits and Systems for Video Technology (Under Review)</span></em>
 </td>
 </tr>
 </tbody>
