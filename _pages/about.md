@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Cong Ma's Homepage"
 excerpt: "Cong Ma (马璁)"
 author_profile: true
 redirect_from: 
@@ -166,45 +166,13 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <table>
 <tbody>
 <tr>
-<td width="300px"><a href="http://reeshark.github.io/images/Robosense.png"><img src="http://reeshark.github.io/images/Robosense.png" alt="clean-usnob" width="100%" height="100%"></a></td>
-<td width="75%" valign="middle">
-<papertitle><strong>RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving</strong></papertitle>
-<br>
-Haisheng Su, Feixiang Song, <strong>Cong Ma*</strong>, Panpan Cai, Wei Wu, Cewu Lu
-<br>
-<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
-<p>Paper, Github</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
-<td width="300px"><a href="http://reeshark.github.io/images/UniMamba.png"><img src="http://reeshark.github.io/images/UniMamba.png" alt="clean-usnob" width="100%" height="100%"></a></td>
-<td width="75%" valign="middle">
-<papertitle><strong>UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection</strong></papertitle>
-<br>
-Xin Jin, Haisheng Su, Kai Liu, <strong>Cong Ma*</strong>, Wei Wu, Fei Hui, Junchi Yan
-<br>
-<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
-<p>Paper, Github</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
 <td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
 <td width="75%" valign="middle">
 <papertitle><strong>GeoPoint: Geometry Point Embedding for 3D Object Detection with Fully Transformer</strong></papertitle>
 <br>
 Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei HUI, Wei Wu
 <br>
-<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
+<em> <span style="color: blue;">The IEEE International Conference on Computer Vision (ICCV), 2025 (Under Review)</span></em>
 <p>Paper, Github</p>
 </td>
 </tr>
@@ -220,7 +188,7 @@ Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei HUI, Wei Wu
 <br>
 Ruining Yang*, <strong>Cong Ma*</strong>, Kai Liu, Tianxiang Zhou, Xin Jin, Fei HUI, Wei Wu
 <br>
-<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025 (Under Review)</span></em>
+<em> <span style="color: blue;">Journal on Information Fusion (Under Review)</span></em>
 </td>
 </tr>
 </tbody>
@@ -259,6 +227,38 @@ Yuheng Zhang, Tianjian Ouyang, Fudan Yu, <strong>Cong Ma</strong>, Qiao Lei, Wei
 
 
 <h2 style="text-align: left;">Publication</h2>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/Robosense.png"><img src="http://reeshark.github.io/images/Robosense.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving</strong></papertitle>
+<br>
+Haisheng Su, Feixiang Song, <strong>Cong Ma*</strong>, Panpan Cai, Wei Wu, Cewu Lu
+<br>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025</span></em>
+<p>Paper, Github</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/UniMamba.png"><img src="http://reeshark.github.io/images/UniMamba.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection</strong></papertitle>
+<br>
+Xin Jin, Haisheng Su, Kai Liu, <strong>Cong Ma*</strong>, Wei Wu, Fei Hui, Junchi Yan
+<br>
+<em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025</span></em>
+<p>Paper, Github</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
