@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Cong Ma (马璁), and I obtained my Ph.D. degree from [National Engineering Research Center of Visual Technology, Peking University](https://idm.pku.edu.cn/en) in 2021 advised by Prof. [Xiaidong Xie](https://scholar.google.com/citations?user=9-s2WI8AAAAJ&hl=en&oi=ao) and Prof. [Wen Gao](https://scholar.google.com/citations?user=u9aw5o8AAAAJ&hl=en&oi=ao). I completed my bachelor's degree at [School of Artificial Intelligence, Xidian University](https://sai.xidian.edu.cn/) in 2016 supervised by Prof. [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en&oi=ao). I received a visiting student researcher position at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) under the supervision of Prof. [Silvio Savarese](https://scholar.google.com/citations?hl=en&user=ImpbxLsAAAAJ) in 2020. 
+I am Cong Ma (马璁), and I obtained my Ph.D. degree from [National Engineering Research Center of Visual Technology, Peking University](https://idm.pku.edu.cn/en) in 2021 advised by Prof. [Xiaodong Xie](https://scholar.google.com/citations?user=9-s2WI8AAAAJ&hl=en&oi=ao) and Prof. [Wen Gao](https://scholar.google.com/citations?user=u9aw5o8AAAAJ&hl=en&oi=ao). I completed my bachelor's degree at [School of Artificial Intelligence, Xidian University](https://sai.xidian.edu.cn/) in 2016 supervised by Prof. [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en&oi=ao). I received a visiting student researcher position at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) under the supervision of Prof. [Silvio Savarese](https://scholar.google.com/citations?hl=en&user=ImpbxLsAAAAJ) in 2020. 
 
 Currently, I am working at [SenseAuto](https://www.senseauto.com/) where I lead a team dedicated to researching the Roadside Holographic Intersection Perception Algorithm such as 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, Multi-Modality Representation, Trajectory Post-processing. Recently, I focus on World Model to simulate large-scale data for End-to-end Perception Model in Autonomous Driving Scenes. In addition to this role, I also serves as the Chief Technical Adviser for projects involving Smart-Surveillance Systems, Intelligent Transportation and Vehicle-Infrastructure Cooperation. I am leading a team consisting of 4 full-time employees, two internships, and six students, who are all dedicated to advancing the field of our projects. Together, we have been actively involved in cutting-edge research. 
 
-In addition to my research contributions, I have served as a reviewer for prestigious journals and conferences, including CVPR, IJCV, PR, TIP, TCSVT, AAAI, and ECCV and have reviewed a total of 40+ papers. I was nominated for the prestigious ["Person of the Year"](http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html) award in 2016 during my college years.
+In addition to my research contributions, I have served as a reviewer for prestigious journals and conferences, including CVPR, ICCV, IJCV, PR, TIP, TCSVT, AAAI, and ECCV and have reviewed a total of 60+ papers. I was nominated for the prestigious ["Person of the Year"](http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html) award in 2016 during my college years.
 
 Any academic and project cooperation intentions are welcome to contact me: macong[at]senseauto(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
@@ -70,7 +70,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <div class="text" style="width: 80%;float:right;">
 <strong><font size = "3.5">Sensetime (2021-2022)</font></strong>
 <br>
-<font size = "2.5">Senior Researcher</font>
+<font size = "2.5">Senior Scientist</font>
 <br>
 <em><font size = "2"><strong>Projects:</strong> AI CITY, Smart Surveillance System</font></em>
 <br>
