@@ -165,21 +165,6 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 
 <h2 style="text-align: left;">Publication (Under Review)</h2>
 
-<table>
-<tbody>
-<tr>
-<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
-<td width="75%" valign="middle">
-<papertitle><strong>GeoPoint: Geometry Point Embedding for 3D Object Detection with Fully Transformer</strong></papertitle>
-<br>
-Xin Jin*, Kai Liu*, <strong>Cong Ma*</strong>, Ruining Yang, Fei HUI, Wei Wu
-<br>
-<em> <span style="color: blue;">The IEEE International Conference on Computer Vision (ICCV), 2025 (Under Review)</span></em>
-<p>Paper, Github</p>
-</td>
-</tr>
-</tbody>
-</table>
 
 <table>
 <tbody>
@@ -229,6 +214,22 @@ Yuheng Zhang, Tianjian Ouyang, Fudan Yu, <strong>Cong Ma</strong>, Qiao Lei, Wei
 
 
 <h2 style="text-align: left;">Publication</h2>
+
+<table>
+<tbody>
+<tr>
+<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_geopoint.png"><img src="http://reeshark.github.io/images/CVPR2024_geopoint.png" alt="clean-usnob" width="100%" height="100%"></a></td>
+<td width="75%" valign="middle">
+<papertitle><strong>GeoFormer: Geometry Point Encoder for 3D Object Detection with Graph-based Transformer</strong></papertitle>
+<br>
+Xin Jin, Haisheng Su, <strong>Cong Ma*</strong>, Kai Liu, Wei Wu, Fei Hui, Junchi Yan
+<br>
+<em> <span style="color: blue;">The IEEE International Conference on Computer Vision (ICCV), 2025</span></em>
+<p>Paper, Github</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
