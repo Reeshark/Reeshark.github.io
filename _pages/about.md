@@ -196,21 +196,6 @@ Rui Ma, Mengxi Guo, Li Yuming, Hengyuan Zhang, <strong>Cong Ma</strong>, Yuan Li
 </tbody>
 </table>
 
-<table>
-<tbody>
-<tr>
-<td width="300px"><a href="http://reeshark.github.io/images/LCSim.png"><img src="http://reeshark.github.io/images/LCSim.png" alt="clean-usnob" width="100%" height="100%"></a></td>
-<td width="75%" valign="middle">
-<papertitle><strong>LCSim: A Large-Scale Controllable Traffic Simulator</strong></papertitle>
-<br>
-Yuheng Zhang, Tianjian Ouyang, Fudan Yu, <strong>Cong Ma</strong>, Qiao Lei, Wei Wu, Jian Yuan, Yong Li
-<br>
-<em> <span style="color: blue;">The Thirteenth International Conference on Learning Representations (ICLR), 2025 (Under Review)</span></em>
-<p>Paper, Github</p>
-</td>
-</tr>
-</tbody>
-</table>
 
 
 <h2 style="text-align: left;">Publication</h2>
