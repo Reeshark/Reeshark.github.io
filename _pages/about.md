@@ -181,23 +181,6 @@ Ruining Yang*, <strong>Cong Ma*</strong>, Kai Liu, Tianxiang Zhou, Xin Jin, Fei 
 </tbody>
 </table>
 
-<table>
-<tbody>
-<tr>
-<td width="300px"><a href="http://reeshark.github.io/images/CVPR2024_pigw.png"><img src="http://reeshark.github.io/images/CVPR2024_pigw.png" alt="clean-usnob" width="100%" height="100%"></a></td>
-<td width="75%" valign="middle">
-<papertitle><strong>PiGW: A Plug-in Generative Watermarking Framework</strong></papertitle>
-<br>
-Rui Ma, Mengxi Guo, Li Yuming, Hengyuan Zhang, <strong>Cong Ma</strong>, Yuan Li, Xiaodong Xie, Shanghang Zhang
-<br>
-<em> <span style="color: blue;">IEEE Transactions on Circuits and Systems for Video Technology (Under Review)</span></em>
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
 <h2 style="text-align: left;">Publication</h2>
 
 <table>
@@ -221,9 +204,9 @@ Xin Jin, Haisheng Su, <strong>Cong Ma*</strong>, Kai Liu, Wei Wu, Fei Hui, Junch
 <tr>
 <td width="300px"><a href="http://reeshark.github.io/images/Robosense.png"><img src="http://reeshark.github.io/images/Robosense.png" alt="clean-usnob" width="100%" height="100%"></a></td>
 <td width="75%" valign="middle">
-<papertitle><strong>RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving</strong></papertitle>
+<papertitle><strong>RoboSense: Large-scale Dataset and Benchmark for Egocentric Robot Perception and Navigation in Crowded and Unstructured Environments</strong></papertitle>
 <br>
-Haisheng Su, Feixiang Song, <strong>Cong Ma*</strong>, Panpan Cai, Wei Wu, Cewu Lu
+Haisheng Su, Feixiang Song, <strong>Cong Ma*</strong>, Wei Wu, Junchi Yan
 <br>
 <em> <span style="color: blue;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025</span></em>
 <p>Paper, Github</p>
