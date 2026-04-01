@@ -51,7 +51,26 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <img src="http://reeshark.github.io/images/SenseAuto_logo.png">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "3.5">SenseAuto (2022-present)</font></strong>
+<strong><font size = "3.5">Sinxbot (2025-present)</font></strong>
+<br>
+<font size = "2.5"> Co-founder & Execute President </font>
+<br>
+<em><font size = "2"><strong>Projects:</strong> Tendon-driven robots and Dexterous hands</font></em>
+<br>
+<em><font size = "2"><strong>Research Fields:</strong> Robot, Embodied Brain, Manipulation and World Model </font></em>
+</div>
+</div>
+</body>
+</html>
+
+<html>
+<body>
+<div class="container" style="width:100%;">
+<div class="image" style="width: 10%; height: 10%; float:left;">
+<img src="http://reeshark.github.io/images/SenseAuto_logo.png">
+</div>
+<div class="text" style="width: 80%;float:right;">
+<strong><font size = "3.5">SenseAuto (2022-2024)</font></strong>
 <br>
 <font size = "2.5">Senior Scientist & Technical Adviser</font>
 <br>
