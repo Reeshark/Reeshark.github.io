@@ -48,7 +48,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
 <div class="container" style="width:100%;">
 <div class="image" style="width: 10%; height: 10%; float:left;">
-<img src="http://reeshark.github.io/images/SenseAuto_logo.png">
+<img src="http://reeshark.github.io/images/Sinxbot_logo.png">
 </div>
 <div class="text" style="width: 80%;float:right;">
 <strong><font size = "3.5">Sinxbot (2025-present)</font></strong>
