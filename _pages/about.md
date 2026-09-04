@@ -10,9 +10,9 @@ redirect_from:
 
 I am Cong Ma (马璁), and I obtained my Ph.D. degree from [National Engineering Research Center of Visual Technology, Peking University](https://idm.pku.edu.cn/en) in 2021 advised by Prof. [Xiaodong Xie](https://scholar.google.com/citations?user=9-s2WI8AAAAJ&hl=en&oi=ao) and Prof. [Wen Gao](https://scholar.google.com/citations?user=u9aw5o8AAAAJ&hl=en&oi=ao). I completed my bachelor's degree at [School of Artificial Intelligence, Xidian University](https://sai.xidian.edu.cn/) in 2016 supervised by Prof. [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en&oi=ao). I received a visiting student researcher position at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) under the supervision of Prof. [Silvio Savarese](https://scholar.google.com/citations?hl=en&user=ImpbxLsAAAAJ) in 2020. 
 
-Currently, I am co-founder of Sinxbot (弦引未来), a robotics startup focused on tendon-driven robots (similar to 1X tech) and dexterous hands, with research spanning embodied AI, embodied brain and manipulation algorithms.
+Currently, I am Co-founder of XYZ Embodied AI (星源智机器人), aiming to research and application on Embodied Brain, World Model, Multi-WBI (Whole-Body Intelligence).
 
-Previously, I worked at Sensetime (商汤科技) where I lead a team dedicated to researching the Roadside Holographic Intersection Perception Algorithm and L4 autonomous driving algorithm such as 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, Multi-Modality Representation, Trajectory Post-processing. Recently, I focus on World Model to simulate large-scale data for End-to-end Perception Model in Autonomous Driving Scenes. In addition to this role, I also serves as the Chief Technical Adviser for projects involving Smart-Surveillance Systems, Intelligent Transportation and Vehicle-Infrastructure Cooperation.
+Previously, I am Co-founder of Sinxbot (弦引未来) in 2025-2026, a robotics startup focused on tendon-driven robots (similar to 1X tech) and dexterous hands, with research spanning embodied AI, embodied brain and manipulation algorithms. I worked at Sensetime (商汤科技) in 2021-2025 where I lead a team dedicated to researching the Roadside Holographic Intersection Perception Algorithm and L4 autonomous driving algorithm such as 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, Multi-Modality Representation, Trajectory Post-processing. Recently, I focus on World Model to simulate large-scale data for End-to-end Perception Model in Autonomous Driving Scenes. In addition to this role, I also serves as the Chief Technical Adviser for projects involving Smart-Surveillance Systems, Intelligent Transportation and Vehicle-Infrastructure Cooperation.
 
 I have published 2-+ top-tier academic papers and serve as a reviewer for journals and conferences such as ICCV, CVPR, ECCV, AAAI, IJCV, and TCSVT, and other venues, hold 10+ national patents, Additionally, in 2016, I was nominated for the prestigious ["Person of the Year"](http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html) award by People's Daily Online (人民网) (only one student annually across the entire university) during my college years.
 
@@ -50,7 +50,26 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <img src="http://reeshark.github.io/images/Sinxbot_logo.png">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "3.5">Sinxbot (2025-present)</font></strong>
+<strong><font size = "3.5">XYZ Embodied AI (2026-present)</font></strong>
+<br>
+<font size = "2.5"> Co-founder </font>
+<br>
+<em><font size = "2"><strong>Projects:</strong> Multi-Robot Collaboration, ‌Park Inspection, Smart Guide </font></em>
+<br>
+<em><font size = "2"><strong>Research Fields:</strong> Robot, Embodied Brain, World Model, Multi-WBI </font></em>
+</div>
+</div>
+</body>
+</html>
+
+<html>
+<body>
+<div class="container" style="width:100%;">
+<div class="image" style="width: 10%; height: 10%; float:left;">
+<img src="http://reeshark.github.io/images/Sinxbot_logo.png">
+</div>
+<div class="text" style="width: 80%;float:right;">
+<strong><font size = "3.5">Sinxbot (2025-2026)</font></strong>
 <br>
 <font size = "2.5"> Co-founder & Execute President </font>
 <br>
@@ -67,14 +86,14 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <body>
 <div class="container" style="width:100%;">
 <div class="image" style="width: 10%; height: 10%; float:left;">
-<img src="http://reeshark.github.io/images/SenseAuto_logo.png">
+<img src="http://reeshark.github.io/images/sensetime_icon.jpg">
 </div>
 <div class="text" style="width: 80%;float:right;">
 <strong><font size = "3.5">SenseAuto (2022-2024)</font></strong>
 <br>
 <font size = "2.5">Senior Scientist & Technical Adviser</font>
 <br>
-<em><font size = "2"><strong>Projects:</strong> Smart Transportation, Vehicle-Infrastructure Cooperation, World Model</font></em>
+<em><font size = "2"><strong>Projects:</strong> AI CITY, Smart Transportation, Vehicle-Infrastructure Cooperation, World Model</font></em>
 <br>
 <em><font size = "2"><strong>Research Fields:</strong> 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, Multi-Modality Representation, Trajectory Post-processing, AIGC+LLM+3DGS </font></em>
 </div>
@@ -82,7 +101,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 </body>
 </html>
 
-<hr>
+<!-- <hr>
 <html>
 <body>
 <div class="container" style="width:100%;">
@@ -100,7 +119,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 </div>
 </div>
 </body>
-</html>
+</html> -->
   
 <hr>
 <html>
