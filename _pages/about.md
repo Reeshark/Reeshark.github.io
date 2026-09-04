@@ -14,9 +14,9 @@ Currently, I am Co-founder of XYZ Embodied AI (星源智机器人), aiming to re
 
 Previously, I am Co-founder of Sinxbot (弦引未来) in 2025-2026, a robotics startup focused on tendon-driven robots (similar to 1X tech) and dexterous hands, with research spanning embodied AI, embodied brain and manipulation algorithms. I worked at Sensetime (商汤科技) in 2021-2025 where I lead a team dedicated to researching the Roadside Holographic Intersection Perception Algorithm and L4 autonomous driving algorithm such as 2D/Monocular3D/Lidar3D Detection and Tracking, Multi-Sensor Tracking, Multi-Modality Representation, Trajectory Post-processing. Recently, I focus on World Model to simulate large-scale data for End-to-end Perception Model in Autonomous Driving Scenes. In addition to this role, I also serves as the Chief Technical Adviser for projects involving Smart-Surveillance Systems, Intelligent Transportation and Vehicle-Infrastructure Cooperation.
 
-I have published 2-+ top-tier academic papers and serve as a reviewer for journals and conferences such as ICCV, CVPR, ECCV, AAAI, IJCV, and TCSVT, and other venues, hold 10+ national patents, Additionally, in 2016, I was nominated for the prestigious ["Person of the Year"](http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html) award by People's Daily Online (人民网) (only one student annually across the entire university) during my college years.
+I have published 20+ top-tier academic papers and serve as a reviewer for journals and conferences such as ICCV, CVPR, ECCV, AAAI, IJCV, and TCSVT, and other venues, hold 10+ national patents, Additionally, in 2016, I was nominated for the prestigious ["Person of the Year"](http://stu.people.com.cn/GB/n1/2016/0429/c402103-28314575.html) award by People's Daily Online (人民网) (only one student annually across the entire university) during my college years.
 
-Any academic and project cooperation intentions are welcome to contact me: macong[at]senseauto(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
+Any academic and project cooperation intentions are welcome to contact me: macong[at]xyz-eai(dot)com / Cong-Reeshard.Ma[at]pku(dot)edu(dot)cn
 
 <h2 style="text-align: left;">Experience</h2>
 <html>
