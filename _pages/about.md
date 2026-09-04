@@ -91,7 +91,7 @@ Any academic and project cooperation intentions are welcome to contact me: macon
 <img src="http://reeshark.github.io/images/sensetime_icon.jpg">
 </div>
 <div class="text" style="width: 80%;float:right;">
-<strong><font size = "3.5">SenseAuto (2022-2024)</font></strong>
+<strong><font size = "3.5">SenseAuto (2021-2024)</font></strong>
 <br>
 <font size = "2.5">Senior Scientist & Technical Adviser</font>
 <br>
